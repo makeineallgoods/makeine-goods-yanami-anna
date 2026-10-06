@@ -1,0 +1,915 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-06",
+  "campaigns": [
+    {
+      "id": "after-kyomaf",
+      "name_zh": "アフター京まふ",
+      "name_ja": "アフター京まふ",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+    },
+    {
+      "id": "amnibus-chibitoko-2024",
+      "name_zh": "AMNIBUS ちびとこ系列",
+      "name_ja": "ちびとこシリーズ",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000006757.000016064.html"
+    },
+    {
+      "id": "amnibus-uniform-apron-2026",
+      "name_zh": "制服围裙新绘",
+      "name_ja": "制服エプロンver.",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000009173.000016064.html"
+    },
+    {
+      "id": "andblue-sweet-summer-2024",
+      "name_zh": "andBlue 2024 Sweet Summer",
+      "name_ja": "きゃらタグ 2024 Sweet Summer",
+      "aliases": [
+        "きゃらタグ"
+      ],
+      "year": 2024,
+      "official_url": "https://www.animate-onlineshop.jp/pd/2955601/"
+    },
+    {
+      "id": "anime-adaptation-book-fair-2024",
+      "name_zh": "动画化纪念购书赠品活动",
+      "name_ja": "TVアニメ化記念！対象書籍購入特典",
+      "aliases": [
+        "キャラクター抜きしおりフェア"
+      ],
+      "year": 2024,
+      "official_url": "https://www.shogakukan.co.jp/pr/makeine2406.pdf"
+    },
+    {
+      "id": "anime-bddvd-store-benefits",
+      "name_zh": "动画 Blu-ray/DVD 店铺特典",
+      "name_ja": "Blu-ray/DVD 店舗別特典",
+      "aliases": [
+        "全巻購入特典",
+        "連動購入特典"
+      ],
+      "year": 2024,
+      "official_url": "https://makeine-anime.com/bddvd/?id=03"
+    },
+    {
+      "id": "anime-official-guide",
+      "name_zh": "动画官方指南",
+      "name_ja": "アニメ公式ガイド",
+      "aliases": [],
+      "year": 2026,
+      "official_url": null
+    },
+    {
+      "id": "animega-chibi-2025",
+      "name_zh": "Animega×Sofmap 原创Q版",
+      "name_ja": "アニメガ×ソフマップ オリジナル描き起こし",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
+    },
+    {
+      "id": "anna-figure-series",
+      "name_zh": "八奈见杏菜官方手办",
+      "name_ja": "八奈見杏菜 公式フィギュア",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://www.goodsmile.com/ja/search?text=%E5%85%AB%E5%A5%88%E8%A6%8B%E6%9D%8F%E8%8F%9C"
+    },
+    {
+      "id": "anna-plush-series",
+      "name_zh": "八奈见杏菜官方毛绒",
+      "name_ja": "八奈見杏菜 公式ぬいぐるみ",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://www.goodsmile.com/ja/product/61554/"
+    },
+    {
+      "id": "autumn-seasons-2025",
+      "name_zh": "各自度过的秋日",
+      "name_ja": "それぞれが過ごす秋",
+      "aliases": [
+        "GiGO秋叶原 秋日主题快闪"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000007.000163015.html"
+    },
+    {
+      "id": "azumaker-character-goods-2025",
+      "name_zh": "Azumaker 角色制品 2025",
+      "name_ja": "アズメーカー キャラクターグッズ 2025",
+      "aliases": [
+        "ぷにこれ！"
+      ],
+      "year": 2025,
+      "official_url": "https://www.animate-onlineshop.jp/pd/3013485/"
+    },
+    {
+      "id": "azumaker-standard-2025",
+      "name_zh": "Azumaker 2025年12月新商品",
+      "name_ja": "アズメーカー 2025年12月新商品",
+      "aliases": [
+        "きゃらON！新商品"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000623.000080345.html"
+    },
+    {
+      "id": "bakudanyaki-collaboration-2025",
+      "name_zh": "爆弹烧本铺联动",
+      "name_ja": "ばくだん焼本舗 コラボ",
+      "aliases": [
+        "ばくだん焼本舗 池袋店限定 POP UP"
+      ],
+      "year": 2025,
+      "official_url": "https://x.com/bkdanikebukuro"
+    },
+    {
+      "id": "beach-date-2026",
+      "name_zh": "海滩约会新绘系列",
+      "name_ja": "描き下ろし ビーチデートver.",
+      "aliases": [
+        "ビーチデート"
+      ],
+      "year": 2026,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000008976.000016064.html"
+    },
+    {
+      "id": "bellhouse-gyugyutto-2025",
+      "name_zh": "Bell House ぎゅぎゅっと系列",
+      "name_ja": "ベルハウス ぎゅぎゅっとシリーズ",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.animate-onlineshop.jp/products/detail.php?product_id=2994530"
+    },
+    {
+      "id": "bellhouse-memories-2025",
+      "name_zh": "Bell House Memories 系列",
+      "name_ja": "ベルハウス メモリーズシリーズ",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://bellhouse-shop.com/news/6715c2740faafe0172da58c2"
+    },
+    {
+      "id": "bellhouse-pajama-2024",
+      "name_zh": "唐吉诃德 睡衣主题",
+      "name_ja": "ドン・キホーテ パジャマver.",
+      "aliases": [
+        "ベルハウス パジャマver."
+      ],
+      "year": 2024,
+      "official_url": "https://bellhouse-shop.com/news/66f4f7b5d4795e02059d667b"
+    },
+    {
+      "id": "blueblue-watch-2025",
+      "name_zh": "BlueBlueTOKYO 角色腕表",
+      "name_ja": "BlueBlueTOKYO キャラクター腕時計",
+      "aliases": [
+        "キャラクター腕時計"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000013.000076830.html"
+    },
+    {
+      "id": "book-cover-series",
+      "name_zh": "书影系列",
+      "name_ja": "书影系列",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ2026001401/"
+    },
+    {
+      "id": "broadcast-commemorative-store-2024",
+      "name_zh": "动画开播纪念商店",
+      "name_ja": "TVアニメ放送記念ストア",
+      "aliases": [
+        "放送記念ストア"
+      ],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000005422.000016756.html"
+    },
+    {
+      "id": "bushiroad-clear-card-collection-2025",
+      "name_zh": "Bushiroad 透明收藏卡",
+      "name_ja": "ブシロード トレーディングカード コレクションクリア",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://bushiroad.com/products/ex_btc/2621"
+    },
+    {
+      "id": "bushiroad-petatto-windup-rubber-2025",
+      "name_zh": "Bushiroad ぺたっとねじまき胶挂系列",
+      "name_ja": "ぺたっとねじまきらばーすとらっぷ",
+      "aliases": [
+        "ブシカプ！"
+      ],
+      "year": 2025,
+      "official_url": "https://capsule.bushiroad-creative.com/product/9208/"
+    },
+    {
+      "id": "chara-in-line-art",
+      "name_zh": "キャラ印 线稿系列",
+      "name_ja": "キャラ印 線画シリーズ",
+      "aliases": [
+        "TOSYO GOODS"
+      ],
+      "year": 2024,
+      "official_url": "https://tosyo-goods.jp/collections/charain_makeine"
+    },
+    {
+      "id": "charain-second-wave-2024",
+      "name_zh": "キャラ印.com 第2弹",
+      "name_ja": "キャラ印.com グッズ第2弾",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000019.000026614.html"
+    },
+    {
+      "id": "charat-kuji-autumn-2026",
+      "name_zh": "各自度过的秋日 网络抽奖",
+      "name_ja": "きゃらっとくじ[web] ～それぞれが過ごす秋～",
+      "aliases": [
+        "それぞれが過ごす秋 Webくじ"
+      ],
+      "year": 2026,
+      "official_url": "https://charat-kuji.jp/lot/5649717054668800-5191332576362496"
+    },
+    {
+      "id": "contents-seed-2025",
+      "name_zh": "コンテンツシード 2025",
+      "name_ja": "コンテンツシード 2025",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04595965"
+    },
+    {
+      "id": "cospa-character-goods",
+      "name_zh": "COSPA 角色制品",
+      "name_ja": "二次元コスパ キャラクターグッズ",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.cospa.com/nijigencospa/detail/id/00000134907"
+    },
+    {
+      "id": "cospa-running-wear-2024",
+      "name_zh": "COSPA 跑步服新绘",
+      "name_ja": "ランニングウェアVer.",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html"
+    },
+    {
+      "id": "cs-front-01",
+      "name_zh": "CS.FRONT /01",
+      "name_ja": "CS.FRONT /01",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://www.crysto.jp/view/item/000000007380"
+    },
+    {
+      "id": "cure-maid-cafe-2024",
+      "name_zh": "CURE MAID CAFE 联动",
+      "name_ja": "キュアメイドカフェVer.",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html"
+    },
+    {
+      "id": "curtain-damashii-angel-devil-2025",
+      "name_zh": "カーテン魂 天使与恶魔",
+      "name_ja": "カーテン魂 天使＆悪魔",
+      "aliases": [
+        "天使&悪魔"
+      ],
+      "year": 2025,
+      "official_url": "https://www.curtain-damashii.com/item/tag/makeine/"
+    },
+    {
+      "id": "curtain-damashii-cider-2025",
+      "name_zh": "カーテン魂 汽水主题",
+      "name_ja": "カーテン魂 サイダー",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.curtain-damashii.com/item/tag/makeine/"
+    },
+    {
+      "id": "ensky-character-goods-2024",
+      "name_zh": "Ensky 角色制品",
+      "name_ja": "エンスカイ キャラクターグッズ",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04531716"
+    },
+    {
+      "id": "eterno-recit-heart",
+      "name_zh": "Eterno Récit 爱心Q版系列",
+      "name_ja": "Eterno Récit ハートミニキャラ",
+      "aliases": [
+        "手でハートマーク"
+      ],
+      "year": 2025,
+      "official_url": "https://www.eternorecit.jp/collabo/anime-game/202505er-makeine-a.html"
+    },
+    {
+      "id": "first-anniversary-store-2025",
+      "name_zh": "动画一周年纪念商店",
+      "name_ja": "1st Anniversary Store in ゲーマーズ",
+      "aliases": [
+        "1st anniversary ver."
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000006627.000016756.html"
+    },
+    {
+      "id": "gagaga-original-2021",
+      "name_zh": "GAGAGA SHOP 原作商品 2021",
+      "name_ja": "GAGAGA SHOP 原作グッズ 2021",
+      "aliases": [],
+      "year": 2021,
+      "official_url": null
+    },
+    {
+      "id": "gagaga-original-2025",
+      "name_zh": "GAGAGA SHOP 原作商品 2025",
+      "name_ja": "GAGAGA SHOP 原作グッズ 2025",
+      "aliases": [],
+      "year": 2025,
+      "official_url": null
+    },
+    {
+      "id": "gagaga-original-2026",
+      "name_zh": "GAGAGA SHOP 原作商品 2026",
+      "name_ja": "GAGAGA SHOP 原作グッズ 2026",
+      "aliases": [],
+      "year": 2026,
+      "official_url": null
+    },
+    {
+      "id": "gagaga-sea-bathing",
+      "name_zh": "海水浴插图系列",
+      "name_ja": "海水浴イラストシリーズ",
+      "aliases": [],
+      "year": 2021,
+      "official_url": null
+    },
+    {
+      "id": "gemakuji-2024",
+      "name_zh": "Gamers 网络抽奖 2024",
+      "name_ja": "TVアニメ「負けヒロインが多すぎる！」ゲマくじ",
+      "aliases": [
+        "ゲマくじ"
+      ],
+      "year": 2024,
+      "official_url": "https://www.gamers.co.jp/corner/cc/gemakuji_makein/cd/1044/"
+    },
+    {
+      "id": "heroine-pinup",
+      "name_zh": "女主角Pin-up系列",
+      "name_ja": "ヒロインピンナップ",
+      "aliases": [],
+      "year": 2021,
+      "official_url": null
+    },
+    {
+      "id": "hobby-japan-scene-goods-2025",
+      "name_zh": "HobbyJAPAN 场景图制品",
+      "name_ja": "ホビージャパン 場面写グッズ",
+      "aliases": [
+        "あみあみ限定 ホビージャパン商品"
+      ],
+      "year": 2025,
+      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04566064"
+    },
+    {
+      "id": "hobbystock-character-goods-2024",
+      "name_zh": "Hobby Stock 角色制品 2024",
+      "name_ja": "ホビーストック キャラクターグッズ 2024",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://www.animate-onlineshop.jp/pd/2963963/"
+    },
+    {
+      "id": "hobbystock-vacation-2025",
+      "name_zh": "败犬女主们的假期",
+      "name_ja": "POP UP SHOP ～マケインたちのバカンス～",
+      "aliases": [
+        "ホビーストック バカンスver."
+      ],
+      "year": 2025,
+      "official_url": "https://www.hobbystock.jp/sp/sm/makeine/"
+    },
+    {
+      "id": "ichiban-kuji-2024",
+      "name_zh": "一番赏《败犬女主太多了！》",
+      "name_ja": "一番くじ 負けヒロインが多すぎる！",
+      "aliases": [
+        "一番くじ マケイン"
+      ],
+      "year": 2024,
+      "official_url": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00006624&pid=9047534&shop=0"
+    },
+    {
+      "id": "itaindou-makeine-2024",
+      "name_zh": "败犬女主太多了 × 痛印堂",
+      "name_ja": "負けヒロインが多すぎる！×痛印堂",
+      "aliases": [
+        "マケ印"
+      ],
+      "year": 2024,
+      "official_url": "https://www.itaindou.com/pages/makeine"
+    },
+    {
+      "id": "jr-central-oshi-tabi-2023",
+      "name_zh": "JR东海 推し旅联动",
+      "name_ja": "JR東海 推し旅コラボ",
+      "aliases": [],
+      "year": 2023,
+      "official_url": null
+    },
+    {
+      "id": "jr-central-oshi-tabi-station-staff-1",
+      "name_zh": "JR东海 推し旅站员装第一弹",
+      "name_ja": "推し旅／JR東海 描き下ろし 駅員ver.",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000007075.000016064.html"
+    },
+    {
+      "id": "jr-central-oshi-tabi-station-staff-2",
+      "name_zh": "JR东海推し旅 站员第二弹",
+      "name_ja": "JR東海 推し旅 駅員ver. 第2弾",
+      "aliases": [
+        "推し旅 第2弾"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000008501.000016064.html"
+    },
+    {
+      "id": "kemomimi-parka",
+      "name_zh": "けもみみパーカー",
+      "name_ja": "けもみみパーカー",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://www.animate-onlineshop.jp/pn/pd/3496857/"
+    },
+    {
+      "id": "kujicolle-christmas-2025",
+      "name_zh": "圣诞 Q 版网络抽奖",
+      "name_ja": "くじコレ ちびキャラクリスマスver.",
+      "aliases": [
+        "ちびキャラクリスマスver."
+      ],
+      "year": 2025,
+      "official_url": "https://kujico.jp/detail/272"
+    },
+    {
+      "id": "kyomaf-2024-yukata",
+      "name_zh": "京まふ2024 浴衣夏祭",
+      "name_ja": "京まふ2024 浴衣・夏祭りver.",
+      "aliases": [
+        "夏祭り/浴衣ver."
+      ],
+      "year": 2024,
+      "official_url": "https://online.aniplex.co.jp/KddfgCVO"
+    },
+    {
+      "id": "kyomaf-retro-cafe-2025",
+      "name_zh": "京まふ 2025 复古咖啡厅",
+      "name_ja": "京まふ2025 レトロカフェ ver.",
+      "aliases": [
+        "京都国际漫画动画展 2025",
+        "レトロカフェ"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000545.000069812.html"
+    },
+    {
+      "id": "lifecard-benefits",
+      "name_zh": "Life Card 联名卡特典",
+      "name_ja": "ライフカード 入会・ポイント交換特典",
+      "aliases": [
+        "負けヒロインが多すぎる！カード"
+      ],
+      "year": 2025,
+      "official_url": "https://www.lifecard.co.jp/lp/makeine/"
+    },
+    {
+      "id": "literature-club-extracurricular-2025",
+      "name_zh": "杜鹃花高中（ツワブキ高校）文艺部课外活动",
+      "name_ja": "ツワブキ高校文芸部課外活動",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://makeine-anime.com/event/"
+    },
+    {
+      "id": "loft-cheerleader-2024",
+      "name_zh": "Loft 啦啦队快闪店",
+      "name_ja": "POP UP STORE in ロフト チアガール",
+      "aliases": [
+        "マケインロフト"
+      ],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000032.000090064.html"
+    },
+    {
+      "id": "makeine-artworks",
+      "name_zh": "《败犬女主太多了！》ARTWORKS",
+      "name_ja": "負けヒロインが多すぎる！ ARTWORKS",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://lifetunes-mall.jp/shop/r/r4030L411/"
+    },
+    {
+      "id": "miko-dance-version",
+      "name_zh": "巫女舞 ver.",
+      "name_ja": "巫女舞 ver.",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+    },
+    {
+      "id": "movic-standard-2024",
+      "name_zh": "Movic 角色制品 2024",
+      "name_ja": "ムービック キャラクターグッズ 2024",
+      "aliases": [
+        "ころっと",
+        "負け顔アイマスク"
+      ],
+      "year": 2024,
+      "official_url": "https://www.animate-onlineshop.jp/pd/2929231/"
+    },
+    {
+      "id": "nonhoi-botanical-riddle-2022",
+      "name_zh": "之海公园植物园谜题活动第 2 弹",
+      "name_ja": "のんほいパーク植物園 謎解きイベント 第2弾",
+      "aliases": [
+        "負けヒロインが多すぎる！×のんほいパーク植物園"
+      ],
+      "year": 2022,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000195.000025583.html"
+    },
+    {
+      "id": "nonhoi-park",
+      "name_zh": "のんほいパーク",
+      "name_ja": "のんほいパーク",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+    },
+    {
+      "id": "novel-sss",
+      "name_zh": "小说SSS",
+      "name_ja": "原作SSS",
+      "aliases": [],
+      "year": 2025,
+      "official_url": null
+    },
+    {
+      "id": "novel-volume-2",
+      "name_zh": "小说第2卷",
+      "name_ja": "小説第2巻",
+      "aliases": [],
+      "year": 2022,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220038/"
+    },
+    {
+      "id": "novel-volume-3",
+      "name_zh": "小说第3卷",
+      "name_ja": "小说第3卷",
+      "aliases": [],
+      "year": 2022,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220053/"
+    },
+    {
+      "id": "novel-volume-4",
+      "name_zh": "小说第4卷",
+      "name_ja": "小説第4巻",
+      "aliases": [],
+      "year": 2022,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220140/"
+    },
+    {
+      "id": "novel-volume-5",
+      "name_zh": "小说第5卷",
+      "name_ja": "原作5巻",
+      "aliases": [],
+      "year": 2023,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20230024/"
+    },
+    {
+      "id": "novel-volume-6",
+      "name_zh": "小说第6卷",
+      "name_ja": "小说第6卷",
+      "aliases": [],
+      "year": 2023,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20230060/"
+    },
+    {
+      "id": "novel-volume-7",
+      "name_zh": "小说第7卷",
+      "name_ja": "小説第7巻",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250016/"
+    },
+    {
+      "id": "novel-volume-8",
+      "name_zh": "小说第8卷",
+      "name_ja": "小说第8卷",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250031/"
+    },
+    {
+      "id": "novel-volume-8-5",
+      "name_zh": "小说8.5卷",
+      "name_ja": "原作8.5巻",
+      "aliases": [],
+      "year": 2026,
+      "official_url": null
+    },
+    {
+      "id": "novel-volume-9",
+      "name_zh": "小说第9卷",
+      "name_ja": "小説第9巻",
+      "aliases": [
+        "祇园祭"
+      ],
+      "year": 2026,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20260036/"
+    },
+    {
+      "id": "osanpo-kisetsu",
+      "name_zh": "散步披上季节。",
+      "name_ja": "お散歩は季節をまとって。",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20260027/"
+    },
+    {
+      "id": "philter-initial-goods-2025",
+      "name_zh": "Philter 角色商品系列",
+      "name_ja": "フィルター・インク キャラクターグッズ",
+      "aliases": [
+        "首字母挂件",
+        "迷你场景牌"
+      ],
+      "year": 2025,
+      "official_url": "https://www.p-animestore.com/?cbid=2936528&csid=0&mode=cate&page=2"
+    },
+    {
+      "id": "philter-pop-up-store-2025",
+      "name_zh": "Philter POP UP STORE 新绘制品",
+      "name_ja": "フィルター・インク POP UP STORE 描きおろしグッズ",
+      "aliases": [
+        "Philter POP UP STORE"
+      ],
+      "year": 2025,
+      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04593142"
+    },
+    {
+      "id": "ramune-lab-plush-2026",
+      "name_zh": "Ramune Lab 毛绒吉祥物",
+      "name_ja": "ラムネラボ ぬいぐるみマスコット",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://lamunelab.base.shop/items/108538436"
+    },
+    {
+      "id": "round1-collaboration-2026",
+      "name_zh": "ROUND1 娱乐联动",
+      "name_ja": "ROUND1コラボキャンペーン",
+      "aliases": [
+        "负けて楽しめるヒロインたち"
+      ],
+      "year": 2026,
+      "official_url": "https://www.round1.co.jp/collaboration/makehiroin/index.html"
+    },
+    {
+      "id": "sanrio-characters-2025",
+      "name_zh": "三丽鸥角色联动",
+      "name_ja": "サンリオキャラクターズ PremiumShop",
+      "aliases": [
+        "×サンリオキャラクターズ",
+        "Up Fields PremiumShop"
+      ],
+      "year": 2025,
+      "official_url": "https://premiumshop.tokyo/makeine-sanrio/"
+    },
+    {
+      "id": "second-anniversary-sweets-2026",
+      "name_zh": "动画二周年甜点主题",
+      "name_ja": "2nd Anniversary スイーツ ver.",
+      "aliases": [
+        "2nd Anniversary Store in ゲーマーズ"
+      ],
+      "year": 2026,
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624"
+    },
+    {
+      "id": "sega-chokonose-2024",
+      "name_zh": "SEGA Chokonose 景品手办",
+      "name_ja": "セガ ちょこのせ プレミアムフィギュア",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://segaplaza.jp/prize/D122095/"
+    },
+    {
+      "id": "sega-nesoberi-plush-2024",
+      "name_zh": "SEGA 趴趴毛绒玩偶",
+      "name_ja": "セガ 寝そべりぬいぐるみ",
+      "aliases": [
+        "寝そべり ぬいぐるみ（EX）"
+      ],
+      "year": 2024,
+      "official_url": "https://onkure.dmm.com/media/prize/42867/"
+    },
+    {
+      "id": "seibunkan-reading-chibi-2025",
+      "name_zh": "精文馆书店限定 读书Q版",
+      "name_ja": "精文館書店限定 読書ミニキャラver.",
+      "aliases": [
+        "読書ミニキャラ"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000055.000026614.html"
+    },
+    {
+      "id": "snapmide",
+      "name_zh": "スナップマイド",
+      "name_ja": "スナップマイド",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.1999.co.jp/11138260"
+    },
+    {
+      "id": "space-a-la-mode-outing-2026",
+      "name_zh": "Space A la mode 外出风格",
+      "name_ja": "Space A la mode おでかけスタイル",
+      "aliases": [
+        "おでかけスタイル"
+      ],
+      "year": 2026,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000007790.000016756.html"
+    },
+    {
+      "id": "summer-sweets-2024",
+      "name_zh": "夏日甜点",
+      "name_ja": "サマースイーツ",
+      "aliases": [
+        "Sweet Summer 2024"
+      ],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000005572.000016756.html"
+    },
+    {
+      "id": "sweets-dress-2024",
+      "name_zh": "甜点礼服",
+      "name_ja": "スイーツドレス！",
+      "aliases": [
+        "イーディス スイーツドレス!"
+      ],
+      "year": 2024,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000194.000066407.html"
+    },
+    {
+      "id": "system-service-blanket-2024",
+      "name_zh": "System Service 景品毛毯",
+      "name_ja": "システムサービス ブランケット",
+      "aliases": [
+        "ブランケット Aブルー",
+        "ブランケット Bパープル"
+      ],
+      "year": 2024,
+      "official_url": "https://onkure.dmm.com/media/prize/41667/"
+    },
+    {
+      "id": "system-service-deformed-plush-2024",
+      "name_zh": "System Service 变形毛绒玩偶",
+      "name_ja": "システムサービス デフォルメぬいぐるみ",
+      "aliases": [],
+      "year": 2024,
+      "official_url": "https://onkure.dmm.com/media/prize/39491/"
+    },
+    {
+      "id": "takara-tomy-arts-deforaba-2026",
+      "name_zh": "Takara Tomy Arts 变形胶挂系列",
+      "name_ja": "でふぉラバ！ 負けヒロインが多すぎる！ キーホルダー",
+      "aliases": [
+        "でふぉラバ！"
+      ],
+      "year": 2026,
+      "official_url": "https://shop.toysanta.jp/?pid=190203881"
+    },
+    {
+      "id": "takeshima-aquarium",
+      "name_zh": "竹岛水族馆",
+      "name_ja": "竹岛水族馆",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250040/"
+    },
+    {
+      "id": "tapioca-plush-2025",
+      "name_zh": "Tapioca 毛绒系列",
+      "name_ja": "タピオカ ぬいぐるみアイテム",
+      "aliases": [
+        "くるみたぴぬい",
+        "ケープたぴぬい"
+      ],
+      "year": 2025,
+      "official_url": "https://shibuyatsutaya.tsite.jp/article/1606.html"
+    },
+    {
+      "id": "trading-can-badge-vol-1",
+      "name_zh": "随机徽章 vol.1",
+      "name_ja": "トレーディング缶バッジ vol.1",
+      "aliases": [
+        "ホビーストック トレーディング缶バッジ vol.1"
+      ],
+      "year": 2024,
+      "official_url": "https://www.1999.co.jp/11126516"
+    },
+    {
+      "id": "trading-can-badge-vol-2",
+      "name_zh": "随机徽章 vol.2",
+      "name_ja": "トレーディング缶バッジ vol.2",
+      "aliases": [
+        "ホビーストック トレーディング缶バッジ vol.2"
+      ],
+      "year": 2025,
+      "official_url": "https://www.hobbystock.jp/item/view/hso-ccg-00010708"
+    },
+    {
+      "id": "trading-can-badge-vol-3",
+      "name_zh": "トレーディング缶バッジ vol.3",
+      "name_ja": "トレーディング缶バッジ vol.3",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://www.amiami.jp/top/detail/detail?gcode=GOODS-04592880"
+    },
+    {
+      "id": "tsutaya-heisei-gyaru-2026",
+      "name_zh": "TSUTAYA 平成辣妹主题",
+      "name_ja": "TSUTAYA POP UP SHOP 平成ギャルver.",
+      "aliases": [
+        "平成ギャルver."
+      ],
+      "year": 2026,
+      "official_url": "https://tsutaya.tsite.jp/articles/store-5393"
+    },
+    {
+      "id": "tsuwabuki-fes",
+      "name_zh": "TSUWABUKI FES",
+      "name_ja": "TSUWABUKI FES",
+      "aliases": [
+        "TSUWABUKI FES in アニメイト"
+      ],
+      "year": 2025,
+      "official_url": "https://www.gamers.co.jp/pn/pd/10805297/"
+    },
+    {
+      "id": "tsuwabuki-fes-pale-tone",
+      "name_zh": "TSUWABUKI FES PALE TONE",
+      "name_ja": "PALE TONE series TSUWABUKI FES ver.",
+      "aliases": [
+        "PALE TONE TSUWABUKI FES"
+      ],
+      "year": 2026,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html"
+    },
+    {
+      "id": "valentine-version",
+      "name_zh": "情人节新绘系列",
+      "name_ja": "バレンタイン ver.",
+      "aliases": [
+        "バレンタインストア in ゲーマーズ"
+      ],
+      "year": 2026,
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7160"
+    },
+    {
+      "id": "winter-uniform",
+      "name_zh": "冬制服Q版系列",
+      "name_ja": "冬制服ミニキャラ",
+      "aliases": [
+        "キャラ印.com 第3弾"
+      ],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000055.000026614.html"
+    },
+    {
+      "id": "yumekawa-fair-animate",
+      "name_zh": "ゆめかわフェア in アニメイト",
+      "name_ja": "ゆめかわフェア in アニメイト",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://www.neogate.jp/makeine_goods/"
+    }
+  ]
+}

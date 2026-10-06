@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-01",
+  "characters": [
+    {
+      "id": "yanami-anna",
+      "name_zh": "八奈见杏菜",
+      "name_ja": "八奈見杏菜",
+      "name_en": "Anna Yanami",
+      "aliases": [
+        "八奈見杏菜"
+      ]
+    },
+    {
+      "id": "yakishio-lemon",
+      "name_zh": "烧盐柠檬",
+      "name_ja": "焼塩檸檬",
+      "name_en": "Lemon Yakishio",
+      "aliases": [
+        "焼塩檸檬"
+      ]
+    },
+    {
+      "id": "komari-chika",
+      "name_zh": "小鞠知花",
+      "name_ja": "小鞠知花",
+      "name_en": "Chika Komari",
+      "aliases": []
+    },
+    {
+      "id": "nukumizu-kaju",
+      "name_zh": "温水佳树",
+      "name_ja": "温水佳樹",
+      "name_en": "Kaju Nukumizu",
+      "aliases": [
+        "温水佳樹"
+      ]
+    },
+    {
+      "id": "shikiya-yumeko",
+      "name_zh": "志喜屋梦子",
+      "name_ja": "志喜屋夢子",
+      "name_en": "Yumeko Shikiya",
+      "aliases": [
+        "志喜屋夢子"
+      ]
+    },
+    {
+      "id": "basori-tiara",
+      "name_zh": "马剃天爱星",
+      "name_ja": "馬剃天愛星",
+      "name_en": "Tiara Basori",
+      "aliases": [
+        "馬剃天愛星",
+        "天爱星",
+        "天愛星"
+      ]
+    }
+  ]
+}

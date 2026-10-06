@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="《败犬女主太多了！》角色制品资料与个人收藏图鉴">
+  <title>角色制品图鉴</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="shell header-inner">
+      <div class="identity">
+        <div class="identity-top">
+          <p class="work-title">败犬女主太多了！</p>
+          <a class="hub-link" id="hubLink" href="/makeine-goods-catalog/public/" hidden>角色导航 <span aria-hidden="true">↗</span></a>
+        </div>
+        <h1><span id="characterName">角色</span> <span>制品图鉴</span></h1>
+        <p class="alias" id="characterAlias">Makeine Character Catalog</p>
+      </div>
+      <dl class="summary" aria-label="收录统计">
+        <div><dt>收录</dt><dd id="totalCount">-</dd></div>
+        <div><dt>已有</dt><dd id="ownedCount">-</dd></div>
+        <div><dt>想要</dt><dd id="wantedCount">-</dd></div>
+        <div><dt>资料图</dt><dd id="imageCount">-</dd></div>
+      </dl>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="toolbar" aria-label="筛选商品">
+      <div class="search-wrap">
+        <span aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" placeholder="搜索制品、联动、厂商或标签" autocomplete="off">
+        <kbd>/</kbd>
+      </div>
+
+      <div class="status-tabs" role="tablist" aria-label="收藏状态">
+        <button type="button" role="tab" class="status-tab active" data-status="all" aria-selected="true">全部</button>
+        <button type="button" role="tab" class="status-tab" data-status="owned" aria-selected="false">已有</button>
+        <button type="button" role="tab" class="status-tab" data-status="wanted" aria-selected="false">想要</button>
+        <button type="button" role="tab" class="status-tab" data-status="missing" aria-selected="false">未收藏</button>
+      </div>
+
+      <div class="filter-row">
+        <label>
+          <span>品类</span>
+          <select id="categoryFilter"><option value="">全部品类</option></select>
+        </label>
+        <label>
+          <span>联动</span>
+          <select id="campaignFilter"><option value="">全部联动</option></select>
+        </label>
+        <label>
+          <span>厂商</span>
+          <select id="makerFilter"><option value="">全部厂商</option></select>
+        </label>
+        <label>
+          <span>排序</span>
+          <select id="sortSelect">
+            <option value="newest">年份：新→旧</option>
+            <option value="oldest">年份：旧→新</option>
+            <option value="priceAsc">价格：低→高</option>
+            <option value="priceDesc">价格：高→低</option>
+            <option value="name">名称</option>
+          </select>
+        </label>
+        <label class="check-filter">
+          <input id="randomFilter" type="checkbox">
+          <span>仅随机款</span>
+        </label>
+      </div>
+
+      <div class="toolbar-foot">
+        <div class="result-summary">
+          <p><strong id="visibleCount">0</strong> 件符合条件</p>
+          <label class="page-size-label">
+            <span>每页</span>
+            <select id="pageSize" aria-label="每页显示数量">
+              <option value="20">20</option>
+              <option value="40">40</option>
+              <option value="60">60</option>
+            </select>
+          </label>
+        </div>
+        <div class="data-actions">
+          <button type="button" class="icon-action" id="exportBtn" title="导出收藏记录" aria-label="导出收藏记录"><span aria-hidden="true">↓</span>导出</button>
+          <label class="icon-action" title="导入收藏记录"><span aria-hidden="true">↑</span>导入<input id="importInput" type="file" accept="application/json,.json"></label>
+        </div>
+      </div>
+    </section>
+
+    <div id="catalogGrid" class="catalog-grid" aria-live="polite"></div>
+    <nav id="pagination" class="pagination" aria-label="制品列表分页" hidden>
+      <p id="pageInfo"></p>
+      <div id="paginationControls" class="pagination-controls"></div>
+    </nav>
+    <div id="emptyState" class="empty-state" hidden>
+      <strong id="emptyMessage">没有匹配的制品</strong>
+      <button type="button" id="clearFilters">清除筛选</button>
+    </div>
+    <div id="loadError" class="load-error" hidden></div>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <p>资料库更新于 <time id="updatedAt">-</time>。官方资料与个人收藏记录分开保存。</p>
+    </div>
+  </footer>
+
+  <dialog id="detailDialog">
+    <div class="dialog-shell">
+      <button type="button" class="dialog-close" id="detailClose" aria-label="关闭" title="关闭">×</button>
+      <div id="detailContent"></div>
+    </div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

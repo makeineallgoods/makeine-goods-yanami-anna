@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://makeine-goods.example/schema/character-catalog-v2.json",
+  "title": "败犬女主太多了！角色制品图鉴",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "registry_version", "catalog", "character", "items"],
+  "properties": {
+    "schema_version": {"const": 2},
+    "registry_version": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "catalog": {
+      "type": "object",
+      "required": ["title", "scope", "updated_at", "status"],
+      "properties": {
+        "title": {"type": "string", "minLength": 1},
+        "scope": {"type": "string", "minLength": 1},
+        "updated_at": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+        "status": {"enum": ["scaffold", "collecting", "published"]}
+      }
+    },
+    "character": {"$ref": "#/$defs/character"},
+    "items": {"type": "array", "items": {"$ref": "#/$defs/item"}}
+  },
+  "$defs": {
+    "character": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name_ja", "name_zh", "name_en", "aliases"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+        "name_ja": {"type": "string", "minLength": 1},
+        "name_zh": {"type": "string", "minLength": 1},
+        "name_en": {"type": "string", "minLength": 1},
+        "aliases": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+      }
+    },
+    "item": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id", "global_product_id", "character_id", "name_ja", "name_zh",
+        "category_id", "campaign_id", "manufacturer_id", "variant",
+        "sale_format", "spec", "release_date", "list_price_yen",
+        "official_status", "verification", "images", "sales", "sources",
+        "tags", "notes"
+      ],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+        "global_product_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+        "character_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+        "name_ja": {"type": "string", "minLength": 1},
+        "name_zh": {"type": "string", "minLength": 1},
+        "category_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9_]*$"},
+        "campaign_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+        "manufacturer_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+        "variant": {"type": "string", "minLength": 1},
+        "sale_format": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["type", "total_variants"],
+          "properties": {
+            "type": {"enum": ["single", "random", "set", "bonus"]},
+            "total_variants": {"type": ["integer", "null"], "minimum": 1}
+          }
+        },
+        "spec": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["size", "material"],
+          "properties": {
+            "size": {"type": ["string", "null"]},
+            "material": {"type": ["string", "null"]}
+          }
+        },
+        "release_date": {"type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+        "list_price_yen": {"type": ["integer", "null"], "minimum": 0},
+        "official_status": {"enum": ["official", "fanmade", "unknown"]},
+        "verification": {"enum": ["confirmed_text", "confirmed_image", "seller_claim", "unverified"]},
+        "images": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["path", "thumbnail_path", "role", "source_url"],
+            "properties": {
+              "path": {"type": "string", "minLength": 1},
+              "thumbnail_path": {"type": ["string", "null"]},
+              "role": {"type": "string", "minLength": 1},
+              "source_url": {"type": "string", "format": "uri"}
+            }
+          }
+        },
+        "sales": {"type": "array"},
+        "sources": {"type": "array", "minItems": 1},
+        "tags": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+        "notes": {"type": ["string", "null"]}
+      }
+    }
+  }
+}

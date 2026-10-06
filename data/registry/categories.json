@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-02",
+  "categories": [
+    {
+      "id": "accessory",
+      "name_zh": "随身配件",
+      "name_ja": "アクセサリー"
+    },
+    {
+      "id": "acrylic_art",
+      "name_zh": "亚克力艺术板",
+      "name_ja": "アクリルアート"
+    },
+    {
+      "id": "acrylic_keychain",
+      "name_zh": "亚克力挂件",
+      "name_ja": "アクリルキーホルダー"
+    },
+    {
+      "id": "acrylic_stand",
+      "name_zh": "亚克力立牌",
+      "name_ja": "アクリルスタンド"
+    },
+    {
+      "id": "apparel",
+      "name_zh": "服饰",
+      "name_ja": "アパレル"
+    },
+    {
+      "id": "bag",
+      "name_zh": "包袋",
+      "name_ja": "バッグ"
+    },
+    {
+      "id": "book",
+      "name_zh": "书籍",
+      "name_ja": "書籍"
+    },
+    {
+      "id": "can_badge",
+      "name_zh": "徽章",
+      "name_ja": "缶バッジ"
+    },
+    {
+      "id": "card",
+      "name_zh": "卡片／色纸",
+      "name_ja": "カード／色紙"
+    },
+    {
+      "id": "clear_file",
+      "name_zh": "透明文件夹",
+      "name_ja": "クリアファイル"
+    },
+    {
+      "id": "fabric_goods",
+      "name_zh": "布艺制品",
+      "name_ja": "布製品"
+    },
+    {
+      "id": "figure",
+      "name_zh": "模型／摆件",
+      "name_ja": "フィギュア"
+    },
+    {
+      "id": "media",
+      "name_zh": "影音制品",
+      "name_ja": "映像／音楽"
+    },
+    {
+      "id": "other",
+      "name_zh": "其他",
+      "name_ja": "その他"
+    },
+    {
+      "id": "plush",
+      "name_zh": "毛绒／玩偶",
+      "name_ja": "ぬいぐるみ／マスコット"
+    },
+    {
+      "id": "poster",
+      "name_zh": "海报",
+      "name_ja": "ポスター"
+    },
+    {
+      "id": "stationery",
+      "name_zh": "文具",
+      "name_ja": "文房具"
+    },
+    {
+      "id": "sticker",
+      "name_zh": "贴纸",
+      "name_ja": "ステッカー"
+    },
+    {
+      "id": "tableware",
+      "name_zh": "餐具",
+      "name_ja": "食器"
+    },
+    {
+      "id": "tapestry",
+      "name_zh": "挂毯",
+      "name_ja": "タペストリー"
+    },
+    {
+      "id": "trading_card",
+      "name_zh": "集换卡牌",
+      "name_ja": "トレーディングカード"
+    }
+  ]
+}

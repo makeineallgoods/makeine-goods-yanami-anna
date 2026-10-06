@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-06",
+  "manufacturers": [
+    {
+      "id": "alter",
+      "name_zh": "ALTER",
+      "name_ja": "アルター",
+      "aliases": []
+    },
+    {
+      "id": "andblue",
+      "name_zh": "andBlue",
+      "name_ja": "andBlue",
+      "aliases": [
+        "きゃらっとくじ"
+      ]
+    },
+    {
+      "id": "andblue-anisugar",
+      "name_zh": "andBlue / Anisugar",
+      "name_ja": "andBlue / Anisugar",
+      "aliases": [
+        "アニメユニバーシティコープ"
+      ]
+    },
+    {
+      "id": "animate-space-a-la-mode",
+      "name_zh": "Animate Space A la mode",
+      "name_ja": "アニメイト Space A la mode",
+      "aliases": [
+        "Space A la mode"
+      ]
+    },
+    {
+      "id": "aniplex",
+      "name_zh": "Aniplex",
+      "name_ja": "アニプレックス",
+      "aliases": []
+    },
+    {
+      "id": "arma-bianca",
+      "name_zh": "arma bianca",
+      "name_ja": "arma bianca",
+      "aliases": [
+        "アルマビアンカ"
+      ]
+    },
+    {
+      "id": "azone-international",
+      "name_zh": "Azone International",
+      "name_ja": "アゾンインターナショナル",
+      "aliases": [
+        "Azone"
+      ]
+    },
+    {
+      "id": "azumaker",
+      "name_zh": "Azumaker",
+      "name_ja": "アズメーカー",
+      "aliases": [
+        "きゃらON！"
+      ]
+    },
+    {
+      "id": "bandai-spirits",
+      "name_zh": "BANDAI SPIRITS",
+      "name_ja": "BANDAI SPIRITS",
+      "aliases": [
+        "一番くじ"
+      ]
+    },
+    {
+      "id": "bell-house",
+      "name_zh": "Bell House",
+      "name_ja": "ベルハウス",
+      "official_url": "https://bellhouse-shop.com/"
+    },
+    {
+      "id": "bluesun",
+      "name_zh": "BlueSUN / BlueBlueTOKYO",
+      "name_ja": "BlueSUN / BlueBlueTOKYO",
+      "aliases": []
+    },
+    {
+      "id": "bushiroad",
+      "name_zh": "ブシロード",
+      "name_ja": "ブシロード",
+      "aliases": []
+    },
+    {
+      "id": "contents-seed",
+      "name_zh": "コンテンツシード",
+      "name_ja": "コンテンツシード",
+      "aliases": []
+    },
+    {
+      "id": "contents-seed-the-chara",
+      "name_zh": "コンテンツシード / THEキャラ",
+      "name_ja": "コンテンツシード / THEキャラ",
+      "aliases": []
+    },
+    {
+      "id": "contents-seed-yurakucho-marui",
+      "name_zh": "コンテンツシード / 有楽町マルイ",
+      "name_ja": "コンテンツシード / 有楽町マルイ",
+      "aliases": []
+    },
+    {
+      "id": "cospa",
+      "name_zh": "COSPA",
+      "name_ja": "コスパ",
+      "aliases": [
+        "二次元コスパ"
+      ]
+    },
+    {
+      "id": "cs-front",
+      "name_zh": "CS.FRONT",
+      "name_ja": "CS.FRONT",
+      "aliases": []
+    },
+    {
+      "id": "edieth-animega-sofmap",
+      "name_zh": "E-DITH / Animega×Sofmap",
+      "name_ja": "イーディス / アニメガ×ソフマップ",
+      "aliases": [
+        "株式会社イーディス"
+      ]
+    },
+    {
+      "id": "ensky",
+      "name_zh": "エンスカイ",
+      "name_ja": "エンスカイ",
+      "aliases": []
+    },
+    {
+      "id": "eterno-recit",
+      "name_zh": "Eterno Récit",
+      "name_ja": "Eterno Récit",
+      "aliases": []
+    },
+    {
+      "id": "freeing",
+      "name_zh": "FREEing",
+      "name_ja": "FREEing",
+      "aliases": []
+    },
+    {
+      "id": "furyu",
+      "name_zh": "FURYU",
+      "name_ja": "フリュー",
+      "aliases": [
+        "FuRyu"
+      ]
+    },
+    {
+      "id": "gagaga-shop-online",
+      "name_zh": "GAGAGA SHOP ONLINE",
+      "name_ja": "GAGAGA SHOP ONLINE",
+      "aliases": []
+    },
+    {
+      "id": "gamers-content-seed",
+      "name_zh": "ゲーマーズ / コンテンツシード",
+      "name_ja": "ゲーマーズ / コンテンツシード",
+      "aliases": []
+    },
+    {
+      "id": "gamers-online",
+      "name_zh": "Gamers Online",
+      "name_ja": "ゲーマーズオンラインショップ",
+      "aliases": [
+        "ゲマくじ"
+      ]
+    },
+    {
+      "id": "good-smile-company",
+      "name_zh": "Good Smile Company",
+      "name_ja": "グッドスマイルカンパニー",
+      "aliases": [
+        "GSC"
+      ]
+    },
+    {
+      "id": "hobby-japan",
+      "name_zh": "HobbyJAPAN",
+      "name_ja": "ホビージャパン",
+      "aliases": [
+        "HJ"
+      ]
+    },
+    {
+      "id": "hobby-stock",
+      "name_zh": "ホビーストック",
+      "name_ja": "ホビーストック",
+      "aliases": []
+    },
+    {
+      "id": "key-th-curtain-damashii",
+      "name_zh": "Key-th / カーテン魂",
+      "name_ja": "Key-th / カーテン魂",
+      "aliases": []
+    },
+    {
+      "id": "lifecard",
+      "name_zh": "Life Card",
+      "name_ja": "ライフカード",
+      "aliases": []
+    },
+    {
+      "id": "movic",
+      "name_zh": "Movic",
+      "name_ja": "ムービック",
+      "aliases": []
+    },
+    {
+      "id": "neo-gate",
+      "name_zh": "NEO GATE",
+      "name_ja": "NEO GATE",
+      "aliases": []
+    },
+    {
+      "id": "neo-gate-animate",
+      "name_zh": "NEO GATE / アニメイト",
+      "name_ja": "NEO GATE / アニメイト",
+      "aliases": []
+    },
+    {
+      "id": "philter",
+      "name_zh": "Philter",
+      "name_ja": "フィルター・インク",
+      "aliases": []
+    },
+    {
+      "id": "philter-loft",
+      "name_zh": "Philter / Loft",
+      "name_ja": "フィルター・インク / ロフト",
+      "aliases": [
+        "マケインロフト"
+      ]
+    },
+    {
+      "id": "ramune-lab",
+      "name_zh": "Ramune Lab",
+      "name_ja": "ラムネラボ",
+      "aliases": [
+        "株式会社ラムネラボ"
+      ]
+    },
+    {
+      "id": "round1-japan",
+      "name_zh": "ROUND1 Japan",
+      "name_ja": "ラウンドワンジャパン",
+      "aliases": [
+        "ROUND1",
+        "ラウンドワン"
+      ]
+    },
+    {
+      "id": "sega-fave",
+      "name_zh": "SEGA Fave",
+      "name_ja": "セガ フェイブ",
+      "aliases": [
+        "セガ",
+        "SEGA",
+        "セガプライズ"
+      ]
+    },
+    {
+      "id": "shogakukan-gagaga-bunko",
+      "name_zh": "小学館 / ガガガ文庫",
+      "name_ja": "小学館 / ガガガ文庫",
+      "aliases": []
+    },
+    {
+      "id": "system-service",
+      "name_zh": "System Service",
+      "name_ja": "システムサービス",
+      "aliases": [
+        "SYSTEM SERVICE"
+      ]
+    },
+    {
+      "id": "takara-tomy-arts",
+      "name_zh": "Takara Tomy Arts",
+      "name_ja": "タカラトミーアーツ",
+      "aliases": [
+        "T-ARTS"
+      ]
+    },
+    {
+      "id": "tapioca",
+      "name_zh": "Tapioca",
+      "name_ja": "株式会社タピオカ",
+      "aliases": [
+        "タピオカ",
+        "TAPIOCA"
+      ]
+    },
+    {
+      "id": "team-entertainment",
+      "name_zh": "Team Entertainment",
+      "name_ja": "ティームエンタテインメント",
+      "aliases": [
+        "くじコレ",
+        "エディア"
+      ]
+    },
+    {
+      "id": "tosyo",
+      "name_zh": "TOSYO",
+      "name_ja": "TOSYO",
+      "aliases": []
+    },
+    {
+      "id": "tosyo-chara-in",
+      "name_zh": "TOSYO / キャラ印",
+      "name_ja": "TOSYO / キャラ印",
+      "aliases": []
+    },
+    {
+      "id": "tosyo-japan-post",
+      "name_zh": "TOSYO / 郵便局物販サービス",
+      "name_ja": "TOSYO / 郵便局物販サービス",
+      "aliases": []
+    },
+    {
+      "id": "tsutaya",
+      "name_zh": "TSUTAYA",
+      "name_ja": "TSUTAYA",
+      "aliases": [
+        "カルチュア・コンビニエンス・クラブ"
+      ]
+    },
+    {
+      "id": "up-fields-premiumshop",
+      "name_zh": "Up Fields / PremiumShop",
+      "name_ja": "Up Fields / PremiumShop",
+      "official_url": "https://premiumshop.tokyo/"
+    },
+    {
+      "id": "wood-boy",
+      "name_zh": "Wood Boy",
+      "name_ja": "ウッドボーイ",
+      "aliases": [
+        "有限会社ウッドボーイ"
+      ]
+    }
+  ]
+}
