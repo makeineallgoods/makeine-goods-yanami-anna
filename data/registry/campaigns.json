@@ -203,8 +203,8 @@
     },
     {
       "id": "bushiroad-petatto-windup-rubber-2025",
-      "name_zh": "Bushiroad ぺたっとねじまき胶挂系列",
-      "name_ja": "ぺたっとねじまきらばーすとらっぷ",
+      "name_zh": "Bushiroad 扭簧贴贴橡胶挂件系列",
+      "name_ja": "ブシカプ！ぺたっとねじまきらばーすとらっぷ",
       "aliases": [
         "ブシカプ！"
       ],
@@ -213,10 +213,11 @@
     },
     {
       "id": "chara-in-line-art",
-      "name_zh": "キャラ印 线稿系列",
+      "name_zh": "Chara-in 线稿系列",
       "name_ja": "キャラ印 線画シリーズ",
       "aliases": [
-        "TOSYO GOODS"
+        "TOSYO GOODS",
+        "线稿系列"
       ],
       "year": 2024,
       "official_url": "https://tosyo-goods.jp/collections/charain_makeine"
@@ -534,14 +535,14 @@
     },
     {
       "id": "movic-standard-2024",
-      "name_zh": "Movic 角色制品 2024",
+      "name_zh": "MOVIC 动画版常规商品 2024",
       "name_ja": "ムービック キャラクターグッズ 2024",
       "aliases": [
         "ころっと",
         "負け顔アイマスク"
       ],
       "year": 2024,
-      "official_url": "https://www.animate-onlineshop.jp/pd/2929231/"
+      "official_url": "https://www.movic.jp/shop/r/r103174_sspd/"
     },
     {
       "id": "nonhoi-botanical-riddle-2022",
@@ -574,8 +575,8 @@
       "name_zh": "小说第2卷",
       "name_ja": "小説第2巻",
       "aliases": [],
-      "year": 2022,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220038/"
+      "year": 2021,
+      "official_url": "https://gagagabunko.jp/lineup/202111.html"
     },
     {
       "id": "novel-volume-3",
@@ -591,7 +592,7 @@
       "name_ja": "小説第4巻",
       "aliases": [],
       "year": 2022,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220140/"
+      "official_url": "https://gagagabunko.jp/lineup/202210.html"
     },
     {
       "id": "novel-volume-5",
@@ -615,7 +616,7 @@
       "name_ja": "小説第7巻",
       "aliases": [],
       "year": 2024,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250016/"
+      "official_url": "https://gagagabunko.jp/lineup/202407.html"
     },
     {
       "id": "novel-volume-8",
@@ -641,7 +642,7 @@
         "祇园祭"
       ],
       "year": 2026,
-      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20260036/"
+      "official_url": "https://gagagabunko.jp/special/makeine/"
     },
     {
       "id": "osanpo-kisetsu",
@@ -910,6 +911,30 @@
       "aliases": [],
       "year": 2026,
       "official_url": "https://www.neogate.jp/makeine_goods/"
+    },
+    {
+      "id": "furyu-noodle-stopper-2025",
+      "name_zh": "FURYU 泡面压手办",
+      "name_ja": "ぬーどるストッパーフィギュア",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://gigo-cranegame.com/ja/prizes/backnumbers/89909"
+    },
+    {
+      "id": "system-service-vivit-2025",
+      "name_zh": "System Service Vivit 手办",
+      "name_ja": "Vivitフィギュア",
+      "aliases": [],
+      "year": 2025,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000351.000046259.html"
+    },
+    {
+      "id": "taito-coreful-2026",
+      "name_zh": "TAITO Coreful 手办",
+      "name_ja": "Coreful フィギュア",
+      "aliases": [],
+      "year": 2026,
+      "official_url": "https://www.taito.co.jp/taito-prize/0452080100"
     }
   ]
 }

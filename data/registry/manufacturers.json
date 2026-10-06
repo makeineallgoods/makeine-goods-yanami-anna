@@ -346,6 +346,12 @@
       "aliases": [
         "有限会社ウッドボーイ"
       ]
+    },
+    {
+      "id": "taito",
+      "name_zh": "TAITO",
+      "name_ja": "タイトー",
+      "aliases": []
     }
   ]
 }

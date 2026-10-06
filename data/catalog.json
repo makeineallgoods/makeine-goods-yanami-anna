@@ -7507,7 +7507,7 @@
           "path": "images/items/source-c3e76f0eaf26638c93b2.jpg",
           "thumbnail_path": "images/thumbs/bushicap-petatto-windup-rubber-strap-anna.webp",
           "role": "product",
-          "source_url": "https://www.suruga-ya.jp/database/pics_light/game/561542945.jpg"
+          "source_url": "https://www.suruga-ya.jp/database/pics_light/game/561542942.jpg"
         }
       ],
       "sales": [
@@ -17555,7 +17555,7 @@
       "character_id": "yanami-anna",
       "name_ja": "アクリルキーホルダー/八奈見 杏菜",
       "name_zh": "MOVIC 亚克力挂件 八奈见杏菜",
-      "category_id": "acrylic_stand",
+      "category_id": "acrylic_keychain",
       "campaign_id": "movic-standard-2024",
       "manufacturer_id": "movic",
       "variant": "八奈见杏菜",
@@ -27687,6 +27687,889 @@
         "八奈见杏菜"
       ],
       "notes": "官方五角色款式之一；当前使用官方全款式集合图。 已由多个角色项目交叉确认，当前使用明确包含八奈见杏菜的官方活动阵容图。"
+    },
+    {
+      "id": "furyu-noodle-stopper-anna",
+      "global_product_id": "furyu-noodle-stopper-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "ぬーどるストッパーフィギュア 八奈見杏菜",
+      "name_zh": "FURYU 泡面压手办 八奈见杏菜",
+      "category_id": "figure",
+      "campaign_id": "furyu-noodle-stopper-2025",
+      "manufacturer_id": "furyu",
+      "variant": "八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-05-23",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/furyu-noodle-stopper-anna.jpg",
+          "thumbnail_path": "images/thumbs/furyu-noodle-stopper-anna.webp",
+          "role": "product",
+          "source_url": "https://assets.gigo-cranegame.com/images/prizes-thumb/2025/0503/SPUccEl9HUsk9H6jz9MxleU9iEljjLVr0t8cqGeU.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "GiGO ONLINE CRANE",
+          "phase": "prize",
+          "url": "https://gigo-cranegame.com/ja/prizes/backnumbers/89909"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://gigo-cranegame.com/ja/prizes/backnumbers/89909",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "景品",
+        "手办",
+        "泡面压",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "system-service-vivit-anna",
+      "global_product_id": "system-service-vivit-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "Vivitフィギュア 八奈見杏菜",
+      "name_zh": "System Service Vivit 手办 八奈见杏菜",
+      "category_id": "figure",
+      "campaign_id": "system-service-vivit-2025",
+      "manufacturer_id": "system-service",
+      "variant": "八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约18cm",
+        "material": null
+      },
+      "release_date": "2025-12-01",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/system-service-vivit-anna.jpg",
+          "thumbnail_path": "images/thumbs/system-service-vivit-anna.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/46259/351/46259-351-db74bc609273e93f5407d002b70bdbd0-2400x2700.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アミューズメント施設",
+          "phase": "prize",
+          "url": "https://prtimes.jp/main/html/rd/p/000000351.000046259.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000351.000046259.html",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "景品",
+        "手办",
+        "Vivit",
+        "八奈见杏菜"
+      ],
+      "notes": "官方公告为2025年12月第3周起陆续登场。"
+    },
+    {
+      "id": "taito-coreful-uniform-anna",
+      "global_product_id": "taito-coreful-uniform-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "Coreful フィギュア 八奈見杏菜 制服ver.",
+      "name_zh": "TAITO Coreful 制服版手办 八奈见杏菜",
+      "category_id": "figure",
+      "campaign_id": "taito-coreful-2026",
+      "manufacturer_id": "taito",
+      "variant": "八奈见杏菜 制服ver.",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约18cm",
+        "material": null
+      },
+      "release_date": "2026-08-01",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/taito-coreful-uniform-anna-standard.jpg",
+          "thumbnail_path": "images/thumbs/taito-coreful-uniform-anna.webp",
+          "role": "product",
+          "source_url": "https://www.taito.co.jp/Content/images/zone/2/item/201407/5804e4c8-7666-441d-92d1-f647c361880a_p_01_ja.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TAITO",
+          "phase": "prize",
+          "url": "https://www.taito.co.jp/taito-prize/0452080100"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.taito.co.jp/taito-prize/0452080100",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "景品",
+        "手办",
+        "Coreful",
+        "八奈见杏菜"
+      ],
+      "notes": "TAITO官方标注2026年8月下旬登场。"
+    },
+    {
+      "id": "animate-2990533",
+      "global_product_id": "animate-2990533",
+      "character_id": "yanami-anna",
+      "name_ja": "アクリルフィギュアスタンド・八奈見杏菜",
+      "name_zh": "线稿亚克力立牌 八奈见杏菜",
+      "category_id": "acrylic_stand",
+      "campaign_id": "chara-in-line-art",
+      "manufacturer_id": "tosyo-chara-in",
+      "variant": "八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2025-01-01",
+      "list_price_yen": 1760,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/animate-2990533.jpg",
+          "thumbnail_path": "images/thumbs/animate-2990533.webp",
+          "role": "product",
+          "source_url": "https://tc-animate.techorus-cdn.com/resize_image/resize_image.php?image=4573512235810_1_1730283881.jpg&width=400&height=400&square=1"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "Animate",
+          "phase": "general_sale",
+          "url": "https://www.animate-onlineshop.jp/pd/2990533/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.animate-onlineshop.jp/pd/2990533/",
+          "type": "retailer",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "线稿",
+        "亚克力立牌",
+        "八奈见杏菜"
+      ],
+      "notes": "Animate 商品页标注发售期：2025年01月中 発売"
+    },
+    {
+      "id": "extracurricular-event-b2-tapestry",
+      "global_product_id": "extracurricular-event-b2-tapestry",
+      "character_id": "yanami-anna",
+      "name_ja": "B2タペストリー",
+      "name_zh": "文艺部课外活动 活动主视觉 B2挂画",
+      "category_id": "tapestry",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 3000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10116_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-b2-tapestry.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10116_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-clear-file",
+      "global_product_id": "extracurricular-event-clear-file",
+      "character_id": "yanami-anna",
+      "name_ja": "A4クリアファイル",
+      "name_zh": "文艺部课外活动 活动主视觉 A4透明文件夹",
+      "category_id": "clear_file",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10114_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-clear-file.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10114_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-random-badges",
+      "global_product_id": "extracurricular-event-random-badges",
+      "character_id": "yanami-anna",
+      "name_ja": "ランダム缶バッジ（全10種）",
+      "name_zh": "文艺部课外活动 活动主视觉 随机徽章",
+      "category_id": "can_badge",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 10
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 500,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10113_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-random-badges.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10113_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-random-bromides",
+      "global_product_id": "extracurricular-event-random-bromides",
+      "character_id": "yanami-anna",
+      "name_ja": "ランダムブロマイド（全5種）",
+      "name_zh": "文艺部课外活动 活动主视觉 随机照片卡",
+      "category_id": "card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10112_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-random-bromides.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10112_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-muffler-towel",
+      "global_product_id": "extracurricular-event-muffler-towel",
+      "character_id": "yanami-anna",
+      "name_ja": "マフラータオル",
+      "name_zh": "文艺部课外活动 活动主视觉 围巾毛巾",
+      "category_id": "fabric_goods",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 2200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10111_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-muffler-towel.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10111_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-op-acrylic-charms",
+      "global_product_id": "extracurricular-event-op-acrylic-charms",
+      "character_id": "yanami-anna",
+      "name_ja": "ランダムアクリルチャーム《OP》（全13種）",
+      "name_zh": "文艺部课外活动 OP画面 随机亚克力挂件",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 13
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 700,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10109_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-op-acrylic-charms.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10109_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-animation-fine-graph",
+      "global_product_id": "extracurricular-event-animation-fine-graph",
+      "character_id": "yanami-anna",
+      "name_ja": "アニメ化記念ビジュアル キャラファイングラフ",
+      "name_zh": "文艺部课外活动 动画化纪念视觉图 高精细复制画",
+      "category_id": "poster",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 1
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 14000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10106_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-animation-fine-graph.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10106_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-build-divide-booster",
+      "global_product_id": "extracurricular-event-build-divide-booster",
+      "character_id": "yanami-anna",
+      "name_ja": "ビルディバイド -ブライト- ブースターパック TVアニメ「負けヒロインが多すぎる！」",
+      "name_zh": "文艺部课外活动 Build Divide Bright 动画版补充包",
+      "category_id": "trading_card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "商品图案或阵容明确包含八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 330,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10105_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-build-divide-booster.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10105_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-acrylic-stand-anna",
+      "global_product_id": "extracurricular-event-acrylic-stand-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "アクリルスタンド 八奈見杏菜",
+      "name_zh": "文艺部课外活动 亚克力立牌 八奈见杏菜",
+      "category_id": "acrylic_stand",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": "アクリル"
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 1400,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10115_photo_2.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-acrylic-stand-anna.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10115_photo_2"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "亚克力立牌",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "extracurricular-event-ed-postcard-set-anna",
+      "global_product_id": "extracurricular-event-ed-postcard-set-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "ポストカードセット《ED》 八奈見杏菜",
+      "name_zh": "文艺部课外活动 ED明信片套装 八奈见杏菜",
+      "category_id": "card",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 1200,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10108_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-event-ed-postcard-set-anna.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10108_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "ED",
+        "明信片",
+        "八奈见杏菜"
+      ],
+      "notes": "使用对应角色ED画面；每套8枚。"
+    },
+    {
+      "id": "extracurricular-losing-heroine-b2-tapestry-anna",
+      "global_product_id": "extracurricular-losing-heroine-b2-tapestry-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "負けヒロインビジュアル B2タペストリー 八奈見杏菜",
+      "name_zh": "文艺部课外活动 败犬女主视觉图 B2挂画 八奈见杏菜",
+      "category_id": "tapestry",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-07",
+      "list_price_yen": 3000,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10104_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-losing-heroine-b2-tapestry-anna.webp",
+          "role": "product",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10104_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "事后通販",
+          "phase": "post_event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "败犬女主视觉图",
+        "B2挂画",
+        "八奈见杏菜"
+      ],
+      "notes": "官方标注为事后通販限定商品。"
+    },
+    {
+      "id": "extracurricular-sns-acrylic-charms-anna",
+      "global_product_id": "extracurricular-sns-acrylic-charms-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "匂わせSNS風アクリルチャーム（ランダム5種）",
+      "name_zh": "文艺部课外活动 暗示恋情SNS风随机亚克力挂件 八奈见杏菜",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "literature-club-extracurricular-2025",
+      "manufacturer_id": "aniplex",
+      "variant": "八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 5
+      },
+      "spec": {
+        "size": null,
+        "material": null
+      },
+      "release_date": "2025-04-06",
+      "list_price_yen": 800,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/extracurricular-goods_10107_main.jpg",
+          "thumbnail_path": "images/thumbs/extracurricular-sns-acrylic-charms-anna.webp",
+          "role": "lineup",
+          "source_url": "https://makeine-anime.com/event/SYS/CONTENTS/goods_10107_main"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "活动会场／事后通販",
+          "phase": "event_sale",
+          "url": "https://makeine-anime.com/event/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://makeine-anime.com/event/",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "文艺部课外活动",
+        "亚克力挂件",
+        "八奈见杏菜"
+      ],
+      "notes": "动画第12话SNS照片主题，全5种；Comic Market 105商品再贩。"
+    },
+    {
+      "id": "taito-coreful-uniform-anna-taito-crane",
+      "global_product_id": "taito-coreful-uniform-anna-taito-crane",
+      "character_id": "yanami-anna",
+      "name_ja": "Coreful フィギュア 八奈見杏菜 制服ver.（タイクレ限定）",
+      "name_zh": "TAITO Coreful 制服版手办 八奈见杏菜（TAITO ONLINE CRANE限定）",
+      "category_id": "figure",
+      "campaign_id": "taito-coreful-2026",
+      "manufacturer_id": "taito",
+      "variant": "八奈见杏菜 制服ver.（タイクレ限定）",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约18cm",
+        "material": null
+      },
+      "release_date": "2026-08-01",
+      "list_price_yen": null,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/taito-coreful-uniform-anna.jpg",
+          "thumbnail_path": "images/thumbs/taito-coreful-uniform-anna-taito-crane.webp",
+          "role": "product",
+          "source_url": "https://www.taito.co.jp/Content/images/zone/2/item/201407/3f8ec1dd-5860-4b70-8d34-a0a217cb9edb_p_01_ja.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "TAITO ONLINE CRANE",
+          "phase": "prize",
+          "url": "https://www.taito.co.jp/taito-prize/0452091900"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.taito.co.jp/taito-prize/0452091900",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "景品",
+        "手办",
+        "Coreful",
+        "限定",
+        "八奈见杏菜"
+      ],
+      "notes": "TAITO官方标注2026年8月下旬登场，TAITO ONLINE CRANE限定。"
     }
   ]
 }
