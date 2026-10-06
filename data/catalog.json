@@ -19853,7 +19853,7 @@
       "global_product_id": "gagaga-j20230052",
       "character_id": "yanami-anna",
       "name_ja": "『お散歩は季節をまとって。』×『負けヒロインが多すぎる！』アクリルキーホルダー",
-      "name_zh": "『お散歩は季節をまとって。』×『負けヒロインが多すぎる！』亚克力挂件",
+      "name_zh": "散步披上季节 × 败犬女主太多了！ 亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "osanpo-kisetsu",
       "manufacturer_id": "gagaga-shop-online",
@@ -19904,7 +19904,7 @@
       "global_product_id": "gagaga-j20260020",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』×『お散歩は季節をまとって。』 アクリルキーホルダー 八奈見杏菜",
-      "name_zh": "×『お散歩は季節をまとって。』 亚克力挂件 八奈见杏菜",
+      "name_zh": "散步披上季节 亚克力挂件 八奈见杏菜",
       "category_id": "acrylic_keychain",
       "campaign_id": "osanpo-kisetsu",
       "manufacturer_id": "gagaga-shop-online",
@@ -21433,13 +21433,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-bromide-bonus-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-bromide-bonus-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "bonus",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111158_6a2a24716a48d.jpg"
         }
       ],
       "sales": [
@@ -21486,13 +21486,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 4400,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-deskmat.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-deskmat.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
         }
       ],
       "sales": [
@@ -21539,13 +21539,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 6600,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-diecut-board-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-diecut-board-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111204_6a2a25cd97dd6.jpg"
         }
       ],
       "sales": [
@@ -21592,13 +21592,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 8800,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-extra-large-tapestry-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-extra-large-tapestry-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111159_6a2a24ae819e8.jpg"
         }
       ],
       "sales": [
@@ -21645,13 +21645,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 7150,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-fullgraphic-tshirt-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-fullgraphic-tshirt-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2626ca2b6.jpg"
         }
       ],
       "sales": [
@@ -21698,12 +21698,12 @@
       "release_date": "2026-09-15",
       "list_price_yen": 715,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-holo-badge.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-holo-badge.webp",
-          "role": "lineup",
+          "role": "product",
           "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
         }
       ],
@@ -21751,13 +21751,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-lottery-figure-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-lottery-figure-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "bonus",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111158_6a2a24643cdef.jpg"
         }
       ],
       "sales": [
@@ -21804,13 +21804,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 16500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-memorial-art.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-memorial-art.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/07061342_6a4b323a6dfc9.jpg"
         }
       ],
       "sales": [
@@ -21857,13 +21857,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 825,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-microfiber-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-microfiber-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111205_6a2a25f85205e.jpg"
         }
       ],
       "sales": [
@@ -21910,13 +21910,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 3190,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-mini-art.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-mini-art.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111204_6a2a25ab71fd5.jpg"
         }
       ],
       "sales": [
@@ -21963,13 +21963,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 4400,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-mini-clock.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-mini-clock.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111204_6a2a25b6cc0a4.jpg"
         }
       ],
       "sales": [
@@ -22016,13 +22016,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-mug.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-mug.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a264b2dcc9.jpg"
         }
       ],
       "sales": [
@@ -22069,13 +22069,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 1595,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-sns-keychain-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-sns-keychain-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a255b0b963.jpg"
         }
       ],
       "sales": [
@@ -22122,13 +22122,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 2420,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-ee8ba0a47276bafa1891.jpg",
+          "path": "images/items/thechara-anniversary2-stand-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-stand-anna.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111203_6a2a258639f29.jpg"
         }
       ],
       "sales": [
@@ -23686,7 +23686,7 @@
       "global_product_id": "gagaga-j20250040",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボランダム缶バッジ",
-      "name_zh": "×「竹島水族館」联动ランダム缶バッジ",
+      "name_zh": "竹岛水族馆联动 随机徽章 八奈见杏菜款",
       "category_id": "can_badge",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -23737,7 +23737,7 @@
       "global_product_id": "gagaga-j20250041",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボアクリルキーホルダーセット A",
-      "name_zh": "×「竹島水族館」联动亚克力挂件セット A",
+      "name_zh": "竹岛水族馆联动 亚克力挂件套装 A",
       "category_id": "acrylic_keychain",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -23838,7 +23838,7 @@
       "global_product_id": "gagaga-j20250044",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボステッカーセット A",
-      "name_zh": "×「竹島水族館」联动贴纸套装 A",
+      "name_zh": "竹岛水族馆联动 贴纸套装 A",
       "category_id": "sticker",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -23939,7 +23939,7 @@
       "global_product_id": "gagaga-j20250048",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボアクリルスタンド 八奈見杏菜",
-      "name_zh": "×「竹島水族館」联动亚克力立牌 八奈见杏菜",
+      "name_zh": "竹岛水族馆联动 亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
@@ -23990,7 +23990,7 @@
       "global_product_id": "gagaga-j20250056",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』×「竹島水族館」コラボクリアファイル A",
-      "name_zh": "×「竹島水族館」联动透明文件夹 A",
+      "name_zh": "竹岛水族馆联动 透明文件夹 A",
       "category_id": "clear_file",
       "campaign_id": "takeshima-aquarium",
       "manufacturer_id": "gagaga-shop-online",
