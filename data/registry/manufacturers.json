@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-08",
   "manufacturers": [
     {
       "id": "alter",
@@ -184,7 +184,7 @@
     },
     {
       "id": "hobby-japan",
-      "name_zh": "HobbyJAPAN",
+      "name_zh": "Hobby JAPAN",
       "name_ja": "ホビージャパン",
       "aliases": [
         "HJ"
@@ -352,6 +352,16 @@
       "name_zh": "TAITO",
       "name_ja": "タイトー",
       "aliases": []
+    },
+    {
+      "id": "akros",
+      "name_zh": "AKROS",
+      "name_ja": "アクロス",
+      "aliases": [
+        "有限会社アクロス",
+        "アクロス コンテンツ事業部",
+        "ACROSS"
+      ]
     }
   ]
 }

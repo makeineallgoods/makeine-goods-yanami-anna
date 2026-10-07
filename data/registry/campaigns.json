@@ -1,15 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-08",
   "campaigns": [
-    {
-      "id": "after-kyomaf",
-      "name_zh": "アフター京まふ",
-      "name_ja": "アフター京まふ",
-      "aliases": [],
-      "year": 2026,
-      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
-    },
     {
       "id": "amnibus-chibitoko-2024",
       "name_zh": "AMNIBUS ちびとこ系列",
@@ -67,9 +59,12 @@
     },
     {
       "id": "animega-chibi-2025",
-      "name_zh": "Animega×Sofmap 原创Q版",
+      "name_zh": "Animega×Sofmap Q版",
       "name_ja": "アニメガ×ソフマップ オリジナル描き起こし",
-      "aliases": [],
+      "aliases": [
+        "Animega×Sofmap 原创Q版",
+        "鈴木ハルカ绘制"
+      ],
       "year": 2025,
       "official_url": "https://prtimes.jp/main/html/rd/p/000000244.000066407.html"
     },
@@ -265,14 +260,6 @@
       "official_url": "https://prtimes.jp/main/html/rd/p/000000945.000099047.html"
     },
     {
-      "id": "cs-front-01",
-      "name_zh": "CS.FRONT /01",
-      "name_ja": "CS.FRONT /01",
-      "aliases": [],
-      "year": 2026,
-      "official_url": "https://www.crysto.jp/view/item/000000007380"
-    },
-    {
       "id": "cure-maid-cafe-2024",
       "name_zh": "CURE MAID CAFE 联动",
       "name_ja": "キュアメイドカフェVer.",
@@ -378,7 +365,7 @@
     },
     {
       "id": "hobby-japan-scene-goods-2025",
-      "name_zh": "HobbyJAPAN 场景图制品",
+      "name_zh": "Hobby JAPAN 场景图制品",
       "name_ja": "ホビージャパン 場面写グッズ",
       "aliases": [
         "あみあみ限定 ホビージャパン商品"
@@ -426,7 +413,7 @@
     },
     {
       "id": "jr-central-oshi-tabi-2023",
-      "name_zh": "JR东海 推し旅联动",
+      "name_zh": "JR东海联动",
       "name_ja": "JR東海 推し旅コラボ",
       "aliases": [],
       "year": 2023,
@@ -434,7 +421,7 @@
     },
     {
       "id": "jr-central-oshi-tabi-station-staff-1",
-      "name_zh": "JR东海 推し旅站员装第一弹",
+      "name_zh": "JR东海 推し旅 站员 第一弹",
       "name_ja": "推し旅／JR東海 描き下ろし 駅員ver.",
       "aliases": [],
       "year": 2025,
@@ -442,7 +429,7 @@
     },
     {
       "id": "jr-central-oshi-tabi-station-staff-2",
-      "name_zh": "JR东海推し旅 站员第二弹",
+      "name_zh": "JR东海 推し旅 站员 第二弹",
       "name_ja": "JR東海 推し旅 駅員ver. 第2弾",
       "aliases": [
         "推し旅 第2弾"
@@ -470,7 +457,7 @@
     },
     {
       "id": "kyomaf-2024-yukata",
-      "name_zh": "京まふ2024 浴衣夏祭",
+      "name_zh": "京まふ 2024 浴衣夏祭",
       "name_ja": "京まふ2024 浴衣・夏祭りver.",
       "aliases": [
         "夏祭り/浴衣ver."
@@ -526,14 +513,6 @@
       "official_url": "https://lifetunes-mall.jp/shop/r/r4030L411/"
     },
     {
-      "id": "miko-dance-version",
-      "name_zh": "巫女舞 ver.",
-      "name_ja": "巫女舞 ver.",
-      "aliases": [],
-      "year": 2026,
-      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
-    },
-    {
       "id": "movic-standard-2024",
       "name_zh": "MOVIC 动画版常规商品 2024",
       "name_ja": "ムービック キャラクターグッズ 2024",
@@ -571,6 +550,14 @@
       "official_url": null
     },
     {
+      "id": "novel-volume-1",
+      "name_zh": "小说第1卷",
+      "name_ja": "小説第1巻",
+      "aliases": [],
+      "year": 2021,
+      "official_url": "https://lifetunes-mall.jp/shop/g/gJ20210077/"
+    },
+    {
       "id": "novel-volume-2",
       "name_zh": "小说第2卷",
       "name_ja": "小説第2巻",
@@ -581,7 +568,7 @@
     {
       "id": "novel-volume-3",
       "name_zh": "小说第3卷",
-      "name_ja": "小说第3卷",
+      "name_ja": "小説第3巻",
       "aliases": [],
       "year": 2022,
       "official_url": "https://lifetunes-mall.jp/shop/g/gJ20220053/"
@@ -597,7 +584,7 @@
     {
       "id": "novel-volume-5",
       "name_zh": "小说第5卷",
-      "name_ja": "原作5巻",
+      "name_ja": "小説第5巻",
       "aliases": [],
       "year": 2023,
       "official_url": "https://lifetunes-mall.jp/shop/g/gJ20230024/"
@@ -605,7 +592,7 @@
     {
       "id": "novel-volume-6",
       "name_zh": "小说第6卷",
-      "name_ja": "小说第6卷",
+      "name_ja": "小説第6巻",
       "aliases": [],
       "year": 2023,
       "official_url": "https://lifetunes-mall.jp/shop/g/gJ20230060/"
@@ -621,7 +608,7 @@
     {
       "id": "novel-volume-8",
       "name_zh": "小说第8卷",
-      "name_ja": "小说第8卷",
+      "name_ja": "小説第8巻",
       "aliases": [],
       "year": 2025,
       "official_url": "https://lifetunes-mall.jp/shop/g/gJ20250031/"
@@ -629,7 +616,7 @@
     {
       "id": "novel-volume-8-5",
       "name_zh": "小说第8.5卷",
-      "name_ja": "原作8.5巻",
+      "name_ja": "小説第8.5巻",
       "aliases": [],
       "year": 2026,
       "official_url": null
@@ -848,7 +835,7 @@
     },
     {
       "id": "trading-can-badge-vol-3",
-      "name_zh": "トレーディング缶バッジ vol.3",
+      "name_zh": "随机徽章 vol.3",
       "name_ja": "トレーディング缶バッジ vol.3",
       "aliases": [],
       "year": 2025,
@@ -935,6 +922,47 @@
       "aliases": [],
       "year": 2026,
       "official_url": "https://www.taito.co.jp/taito-prize/0452080100"
+    },
+    {
+      "id": "across-tsuwabuki-chibi-2025",
+      "name_zh": "AKROS 石蕗祭Q版系列",
+      "name_ja": "AKROS ツワブキ祭ディフォルメシリーズ",
+      "aliases": [
+        "AnimeJapan 2025 AKROS"
+      ],
+      "year": 2025,
+      "official_url": "https://www.value-press.com/pressrelease/352447"
+    },
+    {
+      "id": "akros-anna-otter-2025",
+      "name_zh": "AKROS 八奈见杏菜水獭主题系列",
+      "name_ja": "AKROS 八奈見杏菜ラッコモチーフシリーズ",
+      "aliases": [
+        "八奈見杏菜ラッコモチーフ"
+      ],
+      "year": 2025,
+      "official_url": "https://www.value-press.com/pressrelease/352447"
+    },
+    {
+      "id": "kyomaf-2026-miko-dance",
+      "name_zh": "京まふ 2026 巫女舞",
+      "name_ja": "京まふ2026 巫女舞 ver.",
+      "aliases": [
+        "巫女舞 ver.",
+        "アフター京まふ"
+      ],
+      "year": 2026,
+      "official_url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7943"
+    },
+    {
+      "id": "cs-front",
+      "name_zh": "CS.FRONT",
+      "name_ja": "CS.FRONT",
+      "aliases": [
+        "CS.FRONT /01"
+      ],
+      "year": 2026,
+      "official_url": "https://www.crysto.jp/view/company"
     }
   ]
 }

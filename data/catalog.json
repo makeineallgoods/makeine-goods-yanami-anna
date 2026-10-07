@@ -4,7 +4,7 @@
   "catalog": {
     "title": "八奈见杏菜制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含八奈见杏菜的官方实体制品",
-    "updated_at": "2026-10-07",
+    "updated_at": "2026-10-08",
     "status": "collecting"
   },
   "character": {
@@ -22,9 +22,9 @@
       "global_product_id": "thechara-shrine-bromide-bonus",
       "character_id": "yanami-anna",
       "name_ja": "購入特典 ブロマイド 巫女舞 ver.",
-      "name_zh": "巫女舞 满额特典照片卡",
+      "name_zh": "京まふ 2026 巫女舞 After 满额特典照片卡",
       "category_id": "card",
-      "campaign_id": "after-kyomaf",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -66,7 +66,8 @@
         "巫女舞",
         "满额特典",
         "非卖品",
-        "八奈见杏菜"
+        "八奈见杏菜",
+        "After"
       ],
       "notes": "每购买或预约内金满3000日元赠送1枚；非单独销售。 已由多个角色项目交叉确认，当前使用明确包含八奈见杏菜的官方活动阵容图。"
     },
@@ -75,9 +76,9 @@
       "global_product_id": "thechara-shrine-lottery-figure-anna",
       "character_id": "yanami-anna",
       "name_ja": "A賞 特大アクリルフィギュア 八奈見杏菜 巫女舞 ver.",
-      "name_zh": "巫女舞 A奖特大亚克力立牌 八奈见杏菜",
+      "name_zh": "京まふ 2026 巫女舞 After A奖特大亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
-      "campaign_id": "after-kyomaf",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "八奈见杏菜（抽选奖品）",
       "sale_format": {
@@ -118,7 +119,8 @@
         "动画版",
         "巫女舞",
         "新规绘制",
-        "八奈见杏菜"
+        "八奈见杏菜",
+        "After"
       ],
       "notes": "每购买或预约内金满3000日元可参加一次抽选；官方活动页确认A奖为全6种，非卖品。"
     },
@@ -2357,7 +2359,7 @@
       "global_product_id": "animega-chibi-2025-big-stand-anna",
       "character_id": "yanami-anna",
       "name_ja": "ビッグアクリルスタンド 八奈見杏菜",
-      "name_zh": "Animega原创Q版 大型亚克力立牌 八奈见杏菜",
+      "name_zh": "Animega×Sofmap Q版 大型亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2407,7 +2409,7 @@
       "global_product_id": "animega-chibi-2025-cushion-anna",
       "character_id": "yanami-anna",
       "name_ja": "ダイカットクッション 八奈見杏菜",
-      "name_zh": "Animega原创Q版 异形抱枕 八奈见杏菜",
+      "name_zh": "Animega×Sofmap Q版 异形抱枕 八奈见杏菜",
       "category_id": "fabric_goods",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2457,7 +2459,7 @@
       "global_product_id": "animega-chibi-2025-eco-bag",
       "character_id": "yanami-anna",
       "name_ja": "エコバッグ",
-      "name_zh": "Animega原创Q版 环保袋",
+      "name_zh": "Animega×Sofmap Q版 环保袋",
       "category_id": "bag",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2507,7 +2509,7 @@
       "global_product_id": "animega-chibi-2025-frosted-mug",
       "character_id": "yanami-anna",
       "name_ja": "フロストマグカップ",
-      "name_zh": "Animega原创Q版 磨砂玻璃杯",
+      "name_zh": "Animega×Sofmap Q版 磨砂玻璃杯",
       "category_id": "tableware",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2557,7 +2559,7 @@
       "global_product_id": "animega-chibi-2025-long-tshirt",
       "character_id": "yanami-anna",
       "name_ja": "ロングTシャツ",
-      "name_zh": "Animega原创Q版 长袖T恤",
+      "name_zh": "Animega×Sofmap Q版 长袖T恤",
       "category_id": "apparel",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2607,7 +2609,7 @@
       "global_product_id": "animega-chibi-2025-metal-badge",
       "character_id": "yanami-anna",
       "name_ja": "トレーディングメタリック缶バッジ",
-      "name_zh": "Animega原创Q版 随机金属徽章",
+      "name_zh": "Animega×Sofmap Q版 随机金属徽章",
       "category_id": "can_badge",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2657,7 +2659,7 @@
       "global_product_id": "animega-chibi-2025-postcard-bonus-anna",
       "character_id": "yanami-anna",
       "name_ja": "ノベルティポストカード 八奈見杏菜",
-      "name_zh": "Animega原创Q版 购入特典明信片 八奈见杏菜款",
+      "name_zh": "Animega×Sofmap Q版 购入特典明信片 八奈见杏菜款",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2707,7 +2709,7 @@
       "global_product_id": "animega-chibi-2025-stand-anna",
       "character_id": "yanami-anna",
       "name_ja": "アクリルスタンド 八奈見杏菜",
-      "name_zh": "Animega原创Q版 亚克力立牌 八奈见杏菜",
+      "name_zh": "Animega×Sofmap Q版 亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2757,7 +2759,7 @@
       "global_product_id": "animega-chibi-2025-sticker-set",
       "character_id": "yanami-anna",
       "name_ja": "ダイカットステッカーセット",
-      "name_zh": "Animega原创Q版 异形贴纸套装",
+      "name_zh": "Animega×Sofmap Q版 异形贴纸套装",
       "category_id": "sticker",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2807,7 +2809,7 @@
       "global_product_id": "animega-chibi-2025-trading-card",
       "character_id": "yanami-anna",
       "name_ja": "トレーディングカード",
-      "name_zh": "Animega原创Q版 随机卡片",
+      "name_zh": "Animega×Sofmap Q版 随机卡片",
       "category_id": "card",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -2857,7 +2859,7 @@
       "global_product_id": "animega-chibi-2025-trading-keychain",
       "character_id": "yanami-anna",
       "name_ja": "トレーディングアクリルキーホルダー",
-      "name_zh": "Animega原创Q版 随机亚克力挂件",
+      "name_zh": "Animega×Sofmap Q版 随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "animega-chibi-2025",
       "manufacturer_id": "edieth-animega-sofmap",
@@ -8998,7 +9000,7 @@
       "name_ja": "アクリルボード -技- /01 集合",
       "name_zh": "CS.FRONT /01 集合亚克力板",
       "category_id": "acrylic_art",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -9049,7 +9051,7 @@
       "name_ja": "アクリルカード /01 全9種",
       "name_zh": "CS.FRONT /01 随机亚克力卡",
       "category_id": "card",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -9100,7 +9102,7 @@
       "name_ja": "缶バッジ /01 全9種",
       "name_zh": "CS.FRONT /01 随机徽章",
       "category_id": "can_badge",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -9151,7 +9153,7 @@
       "name_ja": "まるっとスタンドキーホルダー /01 全9種",
       "name_zh": "CS.FRONT /01 随机竖牌挂件",
       "category_id": "acrylic_keychain",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -9200,9 +9202,9 @@
       "global_product_id": "csfront-02-diorama-anna",
       "character_id": "yanami-anna",
       "name_ja": "ジオラマアクリル /02 八奈見杏菜",
-      "name_zh": "CS.FRONT 亚克力场景 /02 八奈见杏菜",
+      "name_zh": "CS.FRONT /02 亚克力场景 八奈见杏菜",
       "category_id": "acrylic_art",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -9250,9 +9252,9 @@
       "global_product_id": "csfront-02-passcase-anna",
       "character_id": "yanami-anna",
       "name_ja": "レザーパスケース /02 八奈見杏菜",
-      "name_zh": "CS.FRONT 皮革卡套 /02 八奈见杏菜",
+      "name_zh": "CS.FRONT /02 皮革卡套 八奈见杏菜",
       "category_id": "accessory",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -9300,9 +9302,9 @@
       "global_product_id": "csfront-02-shaker-anna",
       "character_id": "yanami-anna",
       "name_ja": "シャカシャカアクキー /02 八奈見杏菜",
-      "name_zh": "CS.FRONT 摇摇亚克力挂件 /02 八奈见杏菜",
+      "name_zh": "CS.FRONT /02 摇摇亚克力挂件 八奈见杏菜",
       "category_id": "acrylic_keychain",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -9350,9 +9352,9 @@
       "global_product_id": "csfront-02-sticker-anna",
       "character_id": "yanami-anna",
       "name_ja": "ステッカー /02 八奈見杏菜",
-      "name_zh": "CS.FRONT 贴纸 /02 八奈见杏菜",
+      "name_zh": "CS.FRONT /02 贴纸 八奈见杏菜",
       "category_id": "sticker",
-      "campaign_id": "cs-front-01",
+      "campaign_id": "cs-front",
       "manufacturer_id": "cs-front",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -11624,9 +11626,9 @@
       "global_product_id": "gagaga-j20210077",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』 書影B2タペストリー",
-      "name_zh": "书影B2挂毯",
+      "name_zh": "小说第1卷 封面B2挂毯",
       "category_id": "tapestry",
-      "campaign_id": "gagaga-original-2021",
+      "campaign_id": "novel-volume-1",
       "manufacturer_id": "gagaga-shop-online",
       "variant": "八奈见杏菜单品或商品图案明确包含八奈见杏菜",
       "sale_format": {
@@ -12700,7 +12702,7 @@
       "global_product_id": "hobbyjapan-canvas-art-anna",
       "character_id": "yanami-anna",
       "name_ja": "キャンバスアート 八奈見杏菜",
-      "name_zh": "HobbyJAPAN 帆布画 八奈见杏菜",
+      "name_zh": "Hobby JAPAN 帆布画 八奈见杏菜",
       "category_id": "poster",
       "campaign_id": "hobby-japan-scene-goods-2025",
       "manufacturer_id": "hobby-japan",
@@ -12750,7 +12752,7 @@
       "global_product_id": "hobbyjapan-rubber-deskmat-anna",
       "character_id": "yanami-anna",
       "name_ja": "ラバーデスクマット 八奈見杏菜",
-      "name_zh": "HobbyJAPAN 橡胶桌垫 八奈见杏菜",
+      "name_zh": "Hobby JAPAN 橡胶桌垫 八奈见杏菜",
       "category_id": "stationery",
       "campaign_id": "hobby-japan-scene-goods-2025",
       "manufacturer_id": "hobby-japan",
@@ -12800,7 +12802,7 @@
       "global_product_id": "hobbyjapan-scene-face-towel-anna",
       "character_id": "yanami-anna",
       "name_ja": "場面写フェイスタオル 八奈見杏菜",
-      "name_zh": "HobbyJAPAN 场景图面巾 八奈见杏菜",
+      "name_zh": "Hobby JAPAN 场景图面巾 八奈见杏菜",
       "category_id": "apparel",
       "campaign_id": "hobby-japan-scene-goods-2025",
       "manufacturer_id": "hobby-japan",
@@ -12850,7 +12852,7 @@
       "global_product_id": "hobbyjapan-scene-rubber-deskmat-anna",
       "character_id": "yanami-anna",
       "name_ja": "場面写ラバーデスクマット 八奈見杏菜",
-      "name_zh": "HobbyJAPAN 场景图橡胶桌垫 八奈见杏菜",
+      "name_zh": "Hobby JAPAN 场景图橡胶桌垫 八奈见杏菜",
       "category_id": "stationery",
       "campaign_id": "hobby-japan-scene-goods-2025",
       "manufacturer_id": "hobby-japan",
@@ -14267,7 +14269,7 @@
       "global_product_id": "amnibus-jr1-acrylic-card",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 駅員ver. トレーディングアクリルカード",
-      "name_zh": "JR东海站员第一弹随机亚克力卡",
+      "name_zh": "JR东海 推し旅 站员 第一弹 随机亚克力卡",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -14317,7 +14319,7 @@
       "global_product_id": "amnibus-jr1-big-stand-anna",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 八奈見杏菜 駅員ver. BIGアクリルスタンド",
-      "name_zh": "JR东海站员第一弹 BIG亚克力立牌 八奈见杏菜",
+      "name_zh": "JR东海 推し旅 站员 第一弹 BIG亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -14367,7 +14369,7 @@
       "global_product_id": "amnibus-jr1-chibi-matte-badge",
       "character_id": "yanami-anna",
       "name_ja": "トレーディング ちびキャラ 駅員ver. マット缶バッジ",
-      "name_zh": "JR东海站员第一弹Q版随机磨砂徽章",
+      "name_zh": "JR东海 推し旅 站员 第一弹 Q版随机磨砂徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -14417,7 +14419,7 @@
       "global_product_id": "amnibus-jr1-chibi-mug",
       "character_id": "yanami-anna",
       "name_ja": "ちびキャラ 駅員ver. マグカップ",
-      "name_zh": "JR东海站员第一弹Q版马克杯",
+      "name_zh": "JR东海 推し旅 站员 第一弹 Q版马克杯",
       "category_id": "tableware",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -14467,7 +14469,7 @@
       "global_product_id": "amnibus-jr1-chibi-stand",
       "character_id": "yanami-anna",
       "name_ja": "トレーディング ちびキャラ 駅員ver. アクリルスタンド",
-      "name_zh": "JR东海站员第一弹Q版随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第一弹 Q版随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -14517,7 +14519,7 @@
       "global_product_id": "amnibus-jr1-glitter-badge",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 駅員ver. トレーディンググリッター缶バッジ",
-      "name_zh": "JR东海站员第一弹随机闪粉徽章",
+      "name_zh": "JR东海 推し旅 站员 第一弹 随机闪粉徽章",
       "category_id": "can_badge",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -14567,7 +14569,7 @@
       "global_product_id": "amnibus-jr1-postcard-set",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 駅員ver. ポストカード6枚セット",
-      "name_zh": "JR东海站员第一弹明信片6枚套装",
+      "name_zh": "JR东海 推し旅 站员 第一弹 明信片6枚套装",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-1",
       "manufacturer_id": "arma-bianca",
@@ -14617,7 +14619,7 @@
       "global_product_id": "amnibus-jr2-chibi-keychain",
       "character_id": "yanami-anna",
       "name_ja": "駅員ver. 第2弾 ちびキャラ トレーディングアクリルキーホルダー",
-      "name_zh": "JR 东海第二弹 Q 版随机亚克力挂件",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版随机亚克力挂件",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -14668,7 +14670,7 @@
       "global_product_id": "amnibus-jr2-chibi-stickers",
       "character_id": "yanami-anna",
       "name_ja": "駅員ver. 第2弾 ちびキャラ フレークシール",
-      "name_zh": "JR 东海第二弹 Q 版散装贴纸",
+      "name_zh": "JR东海 推し旅 站员 第二弹 Q 版散装贴纸",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -14719,7 +14721,7 @@
       "global_product_id": "amnibus-jr2-deskmat-anna",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 八奈見杏菜 駅員ver. 第2弾 マルチデスクマット",
-      "name_zh": "JR东海站员第二弹 多功能桌垫 八奈见杏菜",
+      "name_zh": "JR东海 推し旅 站员 第二弹 多功能桌垫 八奈见杏菜",
       "category_id": "stationery",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -14771,7 +14773,7 @@
       "global_product_id": "amnibus-jr2-diecut-sticker-anna",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 八奈見杏菜 駅員ver. 第2弾 ダイカットステッカー",
-      "name_zh": "JR东海站员第二弹 异形贴纸 八奈见杏菜",
+      "name_zh": "JR东海 推し旅 站员 第二弹 异形贴纸 八奈见杏菜",
       "category_id": "sticker",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -14823,7 +14825,7 @@
       "global_product_id": "amnibus-jr2-diorama-a",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 駅員ver. 第2弾 アクリルジオラマ 集合A",
-      "name_zh": "JR东海站员第二弹 亚克力场景 A组",
+      "name_zh": "JR东海 推し旅 站员 第二弹 亚克力场景 A组",
       "category_id": "acrylic_art",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -14875,7 +14877,7 @@
       "global_product_id": "amnibus-jr2-double-wire-keychain-anna",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 八奈見杏菜 駅員ver. 第2弾 2連ワイヤーBIGアクリルキーホルダー",
-      "name_zh": "JR东海站员第二弹 双联钢丝大型亚克力挂件 八奈见杏菜",
+      "name_zh": "JR东海 推し旅 站员 第二弹 双联钢丝大型亚克力挂件 八奈见杏菜",
       "category_id": "acrylic_keychain",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -14927,7 +14929,7 @@
       "global_product_id": "amnibus-jr2-extra-large-stand-anna",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 八奈見杏菜 駅員ver. 第2弾 特大アクリルスタンド",
-      "name_zh": "JR东海站员第二弹 特大亚克力立牌 八奈见杏菜",
+      "name_zh": "JR东海 推し旅 站员 第二弹 特大亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -14979,7 +14981,7 @@
       "global_product_id": "amnibus-jr2-instant-card",
       "character_id": "yanami-anna",
       "name_ja": "駅員ver. 第2弾 トレーディングインスタントカメラ風イラストカード",
-      "name_zh": "JR 东海第二弹随机拍立得风卡片",
+      "name_zh": "JR东海 推し旅 站员 第二弹 随机拍立得风卡片",
       "category_id": "card",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -15030,7 +15032,7 @@
       "global_product_id": "amnibus-jr2-trading-stand",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 駅員ver. 第2弾 トレーディングアクリルスタンド",
-      "name_zh": "JR 东海第二弹新绘随机亚克力立牌",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘随机亚克力立牌",
       "category_id": "acrylic_stand",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -15698,7 +15700,7 @@
       "global_product_id": "kyomaf-2024-clear-file-set",
       "character_id": "yanami-anna",
       "name_ja": "A4クリアファイルセット",
-      "name_zh": "京まふ2024 浴衣 A4透明文件夹套装",
+      "name_zh": "京まふ 2024 浴衣夏祭 A4透明文件夹套装",
       "category_id": "clear_file",
       "campaign_id": "kyomaf-2024-yukata",
       "manufacturer_id": "aniplex",
@@ -15748,7 +15750,7 @@
       "global_product_id": "kyomaf-2024-half-tapestry-anna",
       "character_id": "yanami-anna",
       "name_ja": "B2半裁タペストリー 八奈見杏菜",
-      "name_zh": "京まふ2024 浴衣 B2半幅挂毯 八奈见杏菜",
+      "name_zh": "京まふ 2024 浴衣夏祭 B2半幅挂毯 八奈见杏菜",
       "category_id": "tapestry",
       "campaign_id": "kyomaf-2024-yukata",
       "manufacturer_id": "aniplex",
@@ -15798,7 +15800,7 @@
       "global_product_id": "kyomaf-2024-omamori-anna",
       "character_id": "yanami-anna",
       "name_ja": "恋愛成就 御守りチャーム 八奈見杏菜",
-      "name_zh": "京まふ2024 恋爱成就御守挂件 八奈见杏菜",
+      "name_zh": "京まふ 2024 浴衣夏祭 恋爱成就御守挂件 八奈见杏菜",
       "category_id": "accessory",
       "campaign_id": "kyomaf-2024-yukata",
       "manufacturer_id": "aniplex",
@@ -15848,7 +15850,7 @@
       "global_product_id": "kyomaf-2024-stand-anna",
       "character_id": "yanami-anna",
       "name_ja": "アクリルスタンド 八奈見杏菜",
-      "name_zh": "京まふ2024 浴衣亚克力立牌 八奈见杏菜",
+      "name_zh": "京まふ 2024 浴衣夏祭 亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
       "campaign_id": "kyomaf-2024-yukata",
       "manufacturer_id": "aniplex",
@@ -15898,7 +15900,7 @@
       "global_product_id": "kyomaf-2024-trading-badge",
       "character_id": "yanami-anna",
       "name_ja": "ランダム缶バッジ",
-      "name_zh": "京まふ2024 浴衣随机徽章 八奈见杏菜款",
+      "name_zh": "京まふ 2024 浴衣夏祭 随机徽章 八奈见杏菜款",
       "category_id": "can_badge",
       "campaign_id": "kyomaf-2024-yukata",
       "manufacturer_id": "aniplex",
@@ -15948,7 +15950,7 @@
       "global_product_id": "retro-cafe-bromide-bonus",
       "character_id": "yanami-anna",
       "name_ja": "購入特典 ブロマイド レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 满额赠品照片卡",
+      "name_zh": "京まふ 2025 复古咖啡厅 满额赠品照片卡",
       "category_id": "card",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -15998,7 +16000,7 @@
       "global_product_id": "retro-cafe-deka-stand-anna",
       "character_id": "yanami-anna",
       "name_ja": "デカアクリルスタンド 八奈見杏菜 レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 大型亚克力立牌 八奈见杏菜",
+      "name_zh": "京まふ 2025 复古咖啡厅 大型亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -16048,7 +16050,7 @@
       "global_product_id": "retro-cafe-extra-large-tapestry-anna",
       "character_id": "yanami-anna",
       "name_ja": "特大タペストリー 八奈見杏菜 レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 特大挂毯 八奈见杏菜",
+      "name_zh": "京まふ 2025 复古咖啡厅 特大挂毯 八奈见杏菜",
       "category_id": "tapestry",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -16098,7 +16100,7 @@
       "global_product_id": "retro-cafe-hologram-badge",
       "character_id": "yanami-anna",
       "name_ja": "ホログラムカンバッジ(ランダム) レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 随机镭射徽章",
+      "name_zh": "京まふ 2025 复古咖啡厅 随机镭射徽章",
       "category_id": "can_badge",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -16148,7 +16150,7 @@
       "global_product_id": "retro-cafe-mini-acrylic-art",
       "character_id": "yanami-anna",
       "name_ja": "ミニアクリルアート レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 迷你亚克力艺术板",
+      "name_zh": "京まふ 2025 复古咖啡厅 迷你亚克力艺术板",
       "category_id": "acrylic_art",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -16198,7 +16200,7 @@
       "global_product_id": "retro-cafe-sns-keychain-anna",
       "character_id": "yanami-anna",
       "name_ja": "SNS風アクリルキーホルダー 八奈見杏菜 レトロカフェ ver.",
-      "name_zh": "复古咖啡厅 SNS风亚克力挂件 八奈见杏菜",
+      "name_zh": "京まふ 2025 复古咖啡厅 SNS风亚克力挂件 八奈见杏菜",
       "category_id": "acrylic_keychain",
       "campaign_id": "kyomaf-retro-cafe-2025",
       "manufacturer_id": "contents-seed",
@@ -16979,9 +16981,9 @@
       "global_product_id": "thechara-shrine-badge",
       "character_id": "yanami-anna",
       "name_ja": "ホログラムカンバッジ（ブラインド）巫女舞 ver.",
-      "name_zh": "巫女舞 随机镭射徽章",
+      "name_zh": "京まふ 2026 巫女舞 随机镭射徽章",
       "category_id": "can_badge",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -17029,9 +17031,9 @@
       "global_product_id": "thechara-shrine-deskmat",
       "character_id": "yanami-anna",
       "name_ja": "ラバーデスクマット 巫女舞 ver.",
-      "name_zh": "巫女舞 橡胶桌垫",
+      "name_zh": "京まふ 2026 巫女舞 橡胶桌垫",
       "category_id": "stationery",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -17079,9 +17081,9 @@
       "global_product_id": "thechara-shrine-memorial-art",
       "character_id": "yanami-anna",
       "name_ja": "メモリアルアート 巫女舞 ver.",
-      "name_zh": "巫女舞 纪念画",
+      "name_zh": "京まふ 2026 巫女舞 纪念画",
       "category_id": "acrylic_art",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "contents-seed",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -17129,9 +17131,9 @@
       "global_product_id": "thechara-shrine-microfiber-anna",
       "character_id": "yanami-anna",
       "name_ja": "マイクロファイバー 八奈見杏菜 巫女舞 ver.",
-      "name_zh": "巫女舞 超细纤维布 八奈见杏菜",
+      "name_zh": "京まふ 2026 巫女舞 超细纤维布 八奈见杏菜",
       "category_id": "fabric_goods",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -17181,9 +17183,9 @@
       "global_product_id": "thechara-shrine-mini-art-literature",
       "character_id": "yanami-anna",
       "name_ja": "ミニアクリルアート 文芸部 巫女舞 ver.",
-      "name_zh": "巫女舞 文艺部迷你亚克力艺术板",
+      "name_zh": "京まふ 2026 巫女舞 文艺部迷你亚克力艺术板",
       "category_id": "acrylic_art",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
       "sale_format": {
@@ -17233,9 +17235,9 @@
       "global_product_id": "thechara-shrine-stand-anna",
       "character_id": "yanami-anna",
       "name_ja": "デカアクリルスタンド 八奈見杏菜 巫女舞 ver.",
-      "name_zh": "巫女舞 大型亚克力立牌 八奈见杏菜",
+      "name_zh": "京まふ 2026 巫女舞 大型亚克力立牌 八奈见杏菜",
       "category_id": "acrylic_stand",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -17285,9 +17287,9 @@
       "global_product_id": "thechara-shrine-tapestry-anna",
       "character_id": "yanami-anna",
       "name_ja": "特大タペストリー 八奈見杏菜 巫女舞 ver.",
-      "name_zh": "巫女舞 特大挂毯 八奈见杏菜",
+      "name_zh": "京まふ 2026 巫女舞 特大挂毯 八奈见杏菜",
       "category_id": "tapestry",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -17337,9 +17339,9 @@
       "global_product_id": "thechara-shrine-woodstrap-anna",
       "character_id": "yanami-anna",
       "name_ja": "木札ストラップ 八奈見杏菜 巫女舞 ver.",
-      "name_zh": "巫女舞 木牌挂件 八奈见杏菜",
+      "name_zh": "京まふ 2026 巫女舞 木牌挂件 八奈见杏菜",
       "category_id": "accessory",
-      "campaign_id": "miko-dance-version",
+      "campaign_id": "kyomaf-2026-miko-dance",
       "manufacturer_id": "gamers-content-seed",
       "variant": "八奈见杏菜",
       "sale_format": {
@@ -18638,7 +18640,7 @@
       "global_product_id": "gagaga-j20220038",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！2』 アクリルキーホルダーセット",
-      "name_zh": "小说第2卷亚克力挂件套装",
+      "name_zh": "小说第2卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-2",
       "manufacturer_id": "gagaga-shop-online",
@@ -18689,7 +18691,7 @@
       "global_product_id": "gagaga-j20220042",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 2』 アクリルアートパネル ～浮気調査～",
-      "name_zh": "亚克力艺术板 ～浮気調査～",
+      "name_zh": "小说第2卷 亚克力艺术板 出轨调查",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-2",
       "manufacturer_id": "gagaga-shop-online",
@@ -18740,7 +18742,7 @@
       "global_product_id": "gagaga-j20220044",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 2』 アクリルアートパネル ～マケインさんは風呂のなか～",
-      "name_zh": "亚克力艺术板 ～マケインさんは風呂のなか～",
+      "name_zh": "小说第2卷 亚克力艺术板 败犬女主在浴室里",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-2",
       "manufacturer_id": "gagaga-shop-online",
@@ -18791,7 +18793,7 @@
       "global_product_id": "gagaga-j20220039",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！3』アクリルキーホルダーセット",
-      "name_zh": "小说第3卷亚克力挂件套装",
+      "name_zh": "小说第3卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-3",
       "manufacturer_id": "gagaga-shop-online",
@@ -18842,7 +18844,7 @@
       "global_product_id": "gagaga-j20220040",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』 アクリルマグネットセット",
-      "name_zh": "小说第3卷亚克力磁贴套装",
+      "name_zh": "小说第3卷 亚克力磁贴套装",
       "category_id": "accessory",
       "campaign_id": "novel-volume-3",
       "manufacturer_id": "gagaga-shop-online",
@@ -18893,7 +18895,7 @@
       "global_product_id": "gagaga-j20220045",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 3』 アクリルアートパネル ～ツワブキ祭、開幕～",
-      "name_zh": "亚克力艺术板 ～石蕗祭，开幕～",
+      "name_zh": "小说第3卷 亚克力艺术板 石蕗祭开幕",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-3",
       "manufacturer_id": "gagaga-shop-online",
@@ -18944,7 +18946,7 @@
       "global_product_id": "gagaga-j20230019",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 4』アクリルアートパネル ～シング・シング・オニオンリング～",
-      "name_zh": "亚克力艺术板 ～シング・シング・オニオンリング～",
+      "name_zh": "小说第4卷 亚克力艺术板 唱吧，唱吧，洋葱圈",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-4",
       "manufacturer_id": "gagaga-shop-online",
@@ -18995,7 +18997,7 @@
       "global_product_id": "gagaga-j20250023",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 5』 アクリルキーホルダーセット",
-      "name_zh": "亚克力挂件セット",
+      "name_zh": "小说第5卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -19046,7 +19048,7 @@
       "global_product_id": "gagaga-j20230059",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 6』アクリルアートパネル ～「美味っ！やっぱ店じゃん」「八奈見さん、全部食べちゃダメだって」～",
-      "name_zh": "亚克力艺术板 ～「美味っ！やっぱ店じゃん」「八奈見さん、全部食べちゃダメだって」～",
+      "name_zh": "小说第6卷 亚克力艺术板 “好吃！果然店里做的就是不一样”“八奈见同学，不可以全吃光”",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-6",
       "manufacturer_id": "gagaga-shop-online",
@@ -19097,7 +19099,7 @@
       "global_product_id": "gagaga-j20230061",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 6』アクリルキーホルダーセット",
-      "name_zh": "小说第6卷亚克力挂件套装",
+      "name_zh": "小说第6卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-6",
       "manufacturer_id": "gagaga-shop-online",
@@ -19148,7 +19150,7 @@
       "global_product_id": "gagaga-j20240056",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 7』ミニタペストリー",
-      "name_zh": "ミニ挂毯",
+      "name_zh": "小说第7卷 迷你挂毯",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-7",
       "manufacturer_id": "gagaga-shop-online",
@@ -19199,7 +19201,7 @@
       "global_product_id": "gagaga-j20250018",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 7』 アクリルアートパネル ～八奈見ちゃん大ピンチ～",
-      "name_zh": "亚克力艺术板 ～八奈見ちゃん大ピンチ～",
+      "name_zh": "小说第7卷 亚克力艺术板 八奈见大危机",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-7",
       "manufacturer_id": "gagaga-shop-online",
@@ -19250,7 +19252,7 @@
       "global_product_id": "gagaga-j20250027",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 8』 アクリルアートパネル ～応援合戦～",
-      "name_zh": "亚克力艺术板 ～応援合戦～",
+      "name_zh": "小说第8卷 亚克力艺术板 应援大战",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8",
       "manufacturer_id": "gagaga-shop-online",
@@ -19301,7 +19303,7 @@
       "global_product_id": "gagaga-j20250029",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！ 8』 アクリルアートパネル ～家族サービス～",
-      "name_zh": "小说第8卷亚克力艺术板 家庭服务",
+      "name_zh": "小说第8卷 亚克力艺术板 家庭服务",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8",
       "manufacturer_id": "gagaga-shop-online",
@@ -19351,7 +19353,7 @@
       "global_product_id": "gagaga-j20250031",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！8』アクリルキーホルダーセット",
-      "name_zh": "小说第8卷亚克力挂件套装",
+      "name_zh": "小说第8卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-8",
       "manufacturer_id": "gagaga-shop-online",
@@ -19402,7 +19404,7 @@
       "global_product_id": "gagaga-j20260006",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 口絵タペストリー A",
-      "name_zh": "小说第 8.5 卷彩页挂毯 A",
+      "name_zh": "小说第8.5卷 彩页挂毯 A",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -19453,7 +19455,7 @@
       "global_product_id": "gagaga-j20260009",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルアートパネル A",
-      "name_zh": "小说第 8.5 卷亚克力艺术板 A",
+      "name_zh": "小说第8.5卷 亚克力艺术板 A",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -19504,7 +19506,7 @@
       "global_product_id": "gagaga-j20260012",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』 8.5巻 アクリルキーホルダーセット",
-      "name_zh": "小说第 8.5 卷亚克力挂件套装",
+      "name_zh": "小说第8.5卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-8-5",
       "manufacturer_id": "gagaga-shop-online",
@@ -19555,7 +19557,7 @@
       "global_product_id": "gagaga-j20260035",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』 9巻 口絵タペストリー ～温水君は私のなんですけどっ？！～",
-      "name_zh": "9巻 彩页挂毯 ～温水君は私のなんですけどっ？！～",
+      "name_zh": "小说第9卷 彩页挂毯 温水君可是我的？！",
       "category_id": "tapestry",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
@@ -19606,7 +19608,7 @@
       "global_product_id": "gagaga-j20260038",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』 9巻 アクリルアートパネル ～温水君は私のなんですけどっ？！～",
-      "name_zh": "9巻 亚克力艺术板 ～温水君は私のなんですけどっ？！～",
+      "name_zh": "小说第9卷 亚克力艺术板 温水君可是我的？！",
       "category_id": "acrylic_art",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
@@ -19657,7 +19659,7 @@
       "global_product_id": "gagaga-j20260040",
       "character_id": "yanami-anna",
       "name_ja": "『負けヒロインが多すぎる！』9巻 アクリルキーホルダーセット",
-      "name_zh": "小说第9卷亚克力挂件套装",
+      "name_zh": "小说第9卷 亚克力挂件套装",
       "category_id": "acrylic_keychain",
       "campaign_id": "novel-volume-9",
       "manufacturer_id": "gagaga-shop-online",
@@ -28639,7 +28641,7 @@
       "global_product_id": "amnibus-jr2-deskmat-a",
       "character_id": "yanami-anna",
       "name_ja": "描き下ろし 集合A 駅員ver. 第2弾 マルチデスクマット",
-      "name_zh": "JR 东海第二弹新绘多用途桌垫 A",
+      "name_zh": "JR东海 推し旅 站员 第二弹 新绘多用途桌垫 A",
       "category_id": "stationery",
       "campaign_id": "jr-central-oshi-tabi-station-staff-2",
       "manufacturer_id": "arma-bianca",
@@ -28685,6 +28687,426 @@
         "八奈见杏菜"
       ],
       "notes": "官方商品图确认集合A图案包含温水和彦、八奈见杏菜、烧盐柠檬、小鞠知花、温水佳树。"
+    },
+    {
+      "id": "across-tsuwabuki-chibi-keychain-anna",
+      "global_product_id": "across-tsuwabuki-chibi-keychain-anna",
+      "character_id": "yanami-anna",
+      "name_ja": "ツワブキ祭ディフォルメイラストキーホルダー 八奈見杏菜",
+      "name_zh": "AKROS 石蕗祭Q版亚克力挂件 八奈见杏菜",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "across-tsuwabuki-chibi-2025",
+      "manufacturer_id": "akros",
+      "variant": "全7款中的八奈见杏菜款",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": "约65×40mm，因角色而异",
+        "material": "亚克力"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/across-tsuwabuki-chibi-keychain-anna.jpg",
+          "thumbnail_path": "images/thumbs/across-tsuwabuki-chibi-keychain-anna.webp",
+          "role": "lineup",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfVlNGU2NUWHB3Sy5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "石蕗祭",
+        "Q版",
+        "八奈见杏菜"
+      ],
+      "notes": null
+    },
+    {
+      "id": "across-tsuwabuki-chibi-trading-badge",
+      "global_product_id": "across-tsuwabuki-chibi-trading-badge",
+      "character_id": "yanami-anna",
+      "name_ja": "ツワブキ祭ディフォルメイラスト缶バッジ",
+      "name_zh": "AKROS 石蕗祭Q版随机徽章（全7种）",
+      "category_id": "can_badge",
+      "campaign_id": "across-tsuwabuki-chibi-2025",
+      "manufacturer_id": "akros",
+      "variant": "随机全7款，图案包含八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 7
+      },
+      "spec": {
+        "size": "直径57mm",
+        "material": null
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 660,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/across-tsuwabuki-chibi-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/across-tsuwabuki-chibi-trading-badge.webp",
+          "role": "lineup",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfUnhPQ3lSa2xIWi5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "石蕗祭",
+        "Q版",
+        "随机",
+        "八奈见杏菜"
+      ],
+      "notes": "另售全7款完整套装4,620日元，本条按随机单抽记录。"
+    },
+    {
+      "id": "across-tsuwabuki-chibi-tshirt",
+      "global_product_id": "across-tsuwabuki-chibi-tshirt",
+      "character_id": "yanami-anna",
+      "name_ja": "ツワブキ祭ディフォルメイラストTシャツ",
+      "name_zh": "AKROS 石蕗祭Q版七人群像T恤",
+      "category_id": "apparel",
+      "campaign_id": "across-tsuwabuki-chibi-2025",
+      "manufacturer_id": "akros",
+      "variant": "背面七人群像包含八奈见杏菜；M／L／XL",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "M／L／XL",
+        "material": "棉100%"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 4290,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/across-tsuwabuki-chibi-tshirt.jpg",
+          "thumbnail_path": "images/thumbs/across-tsuwabuki-chibi-tshirt.webp",
+          "role": "product",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfemNqd2dEaW1rbC5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "石蕗祭",
+        "Q版",
+        "八奈见杏菜"
+      ],
+      "notes": "正面为石蕗高中标志，背面为七位角色群像。"
+    },
+    {
+      "id": "akros-anna-otter-tshirt",
+      "global_product_id": "akros-anna-otter-tshirt",
+      "character_id": "yanami-anna",
+      "name_ja": "八奈見杏菜ラッコモチーフTシャツ",
+      "name_zh": "AKROS 八奈见杏菜水獭主题T恤",
+      "category_id": "apparel",
+      "campaign_id": "akros-anna-otter-2025",
+      "manufacturer_id": "akros",
+      "variant": "M／L／XL",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "M／L／XL",
+        "material": "棉100%"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 4290,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/akros-anna-otter-tshirt.jpg",
+          "thumbnail_path": "images/thumbs/akros-anna-otter-tshirt.webp",
+          "role": "product",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfaHZLVk9vUXFRWS5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "八奈见杏菜",
+        "水獭主题"
+      ],
+      "notes": null
+    },
+    {
+      "id": "akros-anna-otter-sacoche",
+      "global_product_id": "akros-anna-otter-sacoche",
+      "character_id": "yanami-anna",
+      "name_ja": "八奈見杏菜ラッコモチーフサコッシュバッグ",
+      "name_zh": "AKROS 八奈见杏菜水獭主题斜挎包",
+      "category_id": "bag",
+      "campaign_id": "akros-anna-otter-2025",
+      "manufacturer_id": "akros",
+      "variant": null,
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "包体约30×23cm，肩带约2×110cm",
+        "material": "聚酯纤维"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 2640,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/akros-anna-otter-sacoche.jpg",
+          "thumbnail_path": "images/thumbs/akros-anna-otter-sacoche.webp",
+          "role": "product",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfWmdsbXJ2R0Rsdi5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "八奈见杏菜",
+        "水獭主题"
+      ],
+      "notes": null
+    },
+    {
+      "id": "akros-anna-otter-keychain",
+      "global_product_id": "akros-anna-otter-keychain",
+      "character_id": "yanami-anna",
+      "name_ja": "八奈見杏菜ラッコモチーフアクリルキーホルダー",
+      "name_zh": "AKROS 八奈见杏菜水獭主题亚克力挂件",
+      "category_id": "acrylic_keychain",
+      "campaign_id": "akros-anna-otter-2025",
+      "manufacturer_id": "akros",
+      "variant": null,
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "水獭约直径6cm，附属零件约直径2cm",
+        "material": "亚克力"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 880,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/akros-anna-otter-keychain.jpg",
+          "thumbnail_path": "images/thumbs/akros-anna-otter-keychain.webp",
+          "role": "product",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfaXRveWxDb3V0ZC5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "八奈见杏菜",
+        "水獭主题"
+      ],
+      "notes": null
+    },
+    {
+      "id": "akros-anna-otter-sticker",
+      "global_product_id": "akros-anna-otter-sticker",
+      "character_id": "yanami-anna",
+      "name_ja": "八奈見杏菜ラッコモチーフステッカー",
+      "name_zh": "AKROS 八奈见杏菜水獭主题贴纸",
+      "category_id": "sticker",
+      "campaign_id": "akros-anna-otter-2025",
+      "manufacturer_id": "akros",
+      "variant": null,
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约7×4.5cm",
+        "material": "聚氯乙烯"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 550,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/akros-anna-otter-sticker.jpg",
+          "thumbnail_path": "images/thumbs/akros-anna-otter-sticker.webp",
+          "role": "product",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfWnpUcWdkZHVMUy5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "八奈见杏菜",
+        "水獭主题"
+      ],
+      "notes": null
+    },
+    {
+      "id": "akros-anna-otter-face-towel",
+      "global_product_id": "akros-anna-otter-face-towel",
+      "character_id": "yanami-anna",
+      "name_ja": "八奈見杏菜ラッコモチーフフェイスタオル",
+      "name_zh": "AKROS 八奈见杏菜水獭主题面巾",
+      "category_id": "fabric_goods",
+      "campaign_id": "akros-anna-otter-2025",
+      "manufacturer_id": "akros",
+      "variant": null,
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "约34×84cm",
+        "material": "棉100%"
+      },
+      "release_date": "2025-03-22",
+      "list_price_yen": 1430,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/akros-anna-otter-towel.jpg",
+          "thumbnail_path": "images/thumbs/akros-anna-otter-towel.webp",
+          "role": "product",
+          "source_url": "https://files.value-press.com/czMjYXJ0aWNsZSMzMDI3NiMzNTI0NDcjMzAyNzZfdlVpdmJ6T2JMVS5qcGc.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "AKROS / AnimeJapan 2025",
+          "phase": "event_pre_sale",
+          "url": "https://www.value-press.com/pressrelease/352447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.value-press.com/pressrelease/352447",
+          "type": "official",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "tags": [
+        "动画版",
+        "AKROS",
+        "八奈见杏菜",
+        "水獭主题"
+      ],
+      "notes": null
     }
   ]
 }
