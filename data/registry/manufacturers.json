@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-10",
   "manufacturers": [
     {
       "id": "alter",
@@ -305,6 +305,15 @@
       "aliases": [
         "くじコレ",
         "エディア"
+      ]
+    },
+    {
+      "id": "tong-li-publishing",
+      "name_zh": "东立出版社",
+      "name_ja": "東立出版社",
+      "aliases": [
+        "東立",
+        "Tong Li Publishing"
       ]
     },
     {
