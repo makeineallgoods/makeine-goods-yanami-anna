@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-15",
   "campaigns": [
     {
       "id": "amnibus-chibitoko-2024",
@@ -984,6 +984,17 @@
       ],
       "year": 2024,
       "official_url": "https://shibuyatsutaya.tsite.jp/article/588.html"
+    },
+    {
+      "id": "jr-central-oshi-tabi-2024",
+      "name_zh": "JR东海 推し旅 2024",
+      "name_ja": "マケインと豊橋を応援しようキャンペーン",
+      "aliases": [
+        "JR東海×負けヒロインが多すぎる！ 第2弾",
+        "丰桥应援活动"
+      ],
+      "year": 2024,
+      "official_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
     }
   ]
 }

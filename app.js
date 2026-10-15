@@ -87,7 +87,7 @@
   }
 
   function formatPrice(price) {
-    return Number.isInteger(price) ? `¥${price.toLocaleString('ja-JP')}` : '价格待补';
+    return Number.isInteger(price) ? `¥${price.toLocaleString('ja-JP')}` : '价格待定';
   }
 
   function itemState(id) {

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-15",
   "manufacturers": [
     {
       "id": "alter",
@@ -370,6 +370,14 @@
         "有限会社アクロス",
         "アクロス コンテンツ事業部",
         "ACROSS"
+      ]
+    },
+    {
+      "id": "anican",
+      "name_zh": "AniCan",
+      "name_ja": "アニキャン",
+      "aliases": [
+        "株式会社アニキャン"
       ]
     }
   ]

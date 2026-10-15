@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "registry_version": "2026-10-10",
+  "registry_version": "2026-10-15",
   "catalog": {
     "title": "八奈见杏菜制品图鉴",
     "scope": "《败犬女主太多了！》中明确包含八奈见杏菜的官方实体制品",
-    "updated_at": "2026-10-10",
+    "updated_at": "2026-10-15",
     "status": "collecting"
   },
   "character": {
@@ -1535,7 +1535,7 @@
         "书签",
         "八奈见杏菜"
       ],
-      "notes": "购买《败犬女主太多了！@comic》对象漫画每册赠1张，赠完即止；商品图为全6款集合图。 已由多个角色项目交叉确认，当前使用明确包含八奈见杏菜的官方活动阵容图。"
+      "notes": "购买《败犬女主太多了！@comic》对象漫画每册赠1张，赠完即止；当前使用八奈见杏菜单品图。"
     },
     {
       "id": "bddvd-amiami-canvas-art",
@@ -31569,6 +31569,323 @@
         "八奈见杏菜"
       ],
       "notes": "M、L、XL 三种尺码合并为一条商品记录。"
+    },
+    {
+      "character_id": "yanami-anna",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        },
+        {
+          "url": "https://anican.shop/items/667134f4e47f1002503ff973",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "八奈见杏菜"
+      ],
+      "id": "jr-central-2024-framed-stand-anna",
+      "global_product_id": "jr-central-2024-framed-stand-anna",
+      "name_ja": "JR東海 推し旅 2024 枠付きアクリルスタンド 八奈見杏菜",
+      "name_zh": "JR东海 推し旅 2024 边框亚克力立牌 八奈见杏菜",
+      "category_id": "acrylic_stand",
+      "variant": "八奈见杏菜；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 1980,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-framed-stand-anna.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-framed-stand-anna.webp",
+          "role": "product",
+          "source_url": "https://imagedelivery.net/QondspN4HIUvB_R16-ddAQ/65efbbe1bd9ebe002a0e3175/c31b79aa1135471e65d0.jpg/original"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "アニキャン官方商品页提供八奈见杏菜款单品图。"
+    },
+    {
+      "character_id": "yanami-anna",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "八奈见杏菜"
+      ],
+      "id": "jr-central-2024-trading-badge",
+      "global_product_id": "jr-central-2024-trading-badge",
+      "name_ja": "JR東海 推し旅 2024 ブラインド缶バッジ",
+      "name_zh": "JR东海 推し旅 2024 随机徽章 八奈见杏菜款",
+      "category_id": "can_badge",
+      "variant": "随机6款包含八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸、马口铁"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-badge.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-badge.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image02.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认八奈见杏菜图案。"
+    },
+    {
+      "character_id": "yanami-anna",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "八奈见杏菜"
+      ],
+      "id": "jr-central-2024-trading-acrylic-card",
+      "global_product_id": "jr-central-2024-trading-acrylic-card",
+      "name_ja": "JR東海 推し旅 2024 トレーディングアクリルカード",
+      "name_zh": "JR东海 推し旅 2024 随机亚克力卡 八奈见杏菜款",
+      "category_id": "card",
+      "variant": "随机6款包含八奈见杏菜",
+      "sale_format": {
+        "type": "random",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "亚克力"
+      },
+      "list_price_yen": 770,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-trading-acrylic-card.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-trading-acrylic-card.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image03.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "盲抽商品；JR东海官方阵容图可确认八奈见杏菜图案。"
+    },
+    {
+      "character_id": "yanami-anna",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "八奈见杏菜"
+      ],
+      "id": "jr-central-2024-clear-file",
+      "global_product_id": "jr-central-2024-clear-file",
+      "name_ja": "JR東海 推し旅 2024 A4クリアファイル",
+      "name_zh": "JR东海 推し旅 2024 A4透明文件夹",
+      "category_id": "clear_file",
+      "variant": "6人群像图案包含八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": null
+      },
+      "spec": {
+        "size": "A4",
+        "material": "PP"
+      },
+      "list_price_yen": 550,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-clear-file.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-clear-file.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image04.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "正面为6人群像，背面为角色领结图案。"
+    },
+    {
+      "character_id": "yanami-anna",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "八奈见杏菜"
+      ],
+      "id": "jr-central-2024-postcard-set",
+      "global_product_id": "jr-central-2024-postcard-set",
+      "name_ja": "JR東海 推し旅 2024 ポストカードセット",
+      "name_zh": "JR东海 推し旅 2024 明信片6枚套装",
+      "category_id": "card",
+      "variant": "6枚套装包含八奈见杏菜",
+      "sale_format": {
+        "type": "set",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": "明信片尺寸",
+        "material": "纸"
+      },
+      "list_price_yen": 880,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-postcard-set.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-postcard-set.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/goods-image05.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "精文馆书店 丰桥本店",
+          "phase": "event_sale",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "固定6枚套装，其中1枚为八奈见杏菜。"
+    },
+    {
+      "character_id": "yanami-anna",
+      "campaign_id": "jr-central-oshi-tabi-2024",
+      "manufacturer_id": "anican",
+      "release_date": "2024-03-01",
+      "official_status": "official",
+      "verification": "confirmed_image",
+      "sources": [
+        {
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/",
+          "type": "official",
+          "checked_at": "2026-10-15"
+        }
+      ],
+      "tags": [
+        "原作版",
+        "JR东海",
+        "推し旅",
+        "八奈见杏菜"
+      ],
+      "id": "jr-central-2024-bookmark-anna",
+      "global_product_id": "jr-central-2024-bookmark-anna",
+      "name_ja": "JR東海 推し旅 2024 オリジナル栞 八奈見杏菜",
+      "name_zh": "JR东海 推し旅 2024 店铺特典书签 八奈见杏菜",
+      "category_id": "stationery",
+      "variant": "八奈见杏菜；全6款之一",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 6
+      },
+      "spec": {
+        "size": null,
+        "material": "纸"
+      },
+      "list_price_yen": null,
+      "images": [
+        {
+          "path": "images/items/jr-central-2024-bookmark-anna.jpg",
+          "thumbnail_path": "images/thumbs/jr-central-2024-bookmark-anna.webp",
+          "role": "product",
+          "source_url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/img/bookmark-01.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "丰桥站大楼 Kalmia",
+          "phase": "purchase_bonus",
+          "url": "https://recommend.jr-central.co.jp/oshi-tabi/makeine02/"
+        }
+      ],
+      "notes": "在八奈见杏菜对应地点完成指定消费条件并说出活动口令后领取。"
     }
   ]
 }
