@@ -18428,18 +18428,18 @@
       "notes": "已由多个角色项目交叉确认，当前使用明确包含八奈见杏菜的官方活动阵容图。"
     },
     {
-      "id": "amnibus-nonhoi-chibi-mug",
-      "global_product_id": "amnibus-nonhoi-chibi-mug",
+      "id": "amnibus-nonhoi-chibi-plant-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-plant-mug",
       "character_id": "yanami-anna",
-      "name_ja": "ちびキャラ アトラクションver. マグカップ",
-      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "name_ja": "ちびキャラ 植物ver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版植物马克杯",
       "category_id": "tableware",
       "campaign_id": "nonhoi-park",
       "manufacturer_id": "arma-bianca",
-      "variant": "商品图案、套装或随机阵容明确包含八奈见杏菜",
+      "variant": "植物版图案包含八奈见杏菜",
       "sale_format": {
         "type": "single",
-        "total_variants": null
+        "total_variants": 2
       },
       "spec": {
         "size": "直径约82×H95mm",
@@ -18451,9 +18451,61 @@
       "verification": "confirmed_text",
       "images": [
         {
-          "path": "images/items/source-dc6bffa663ec31ef88b9.jpg",
-          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-mug.webp",
-          "role": "lineup",
+          "path": "images/items/amnibus-nonhoi-chibi-plant-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-plant-mug.webp",
+          "role": "product",
+          "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-94d9c0fa69c5028455aeeebee54311db-1350x1500.jpg"
+        }
+      ],
+      "sales": [
+        {
+          "seller": "アルマビアンカ",
+          "phase": "general_sale",
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000008499.000016064.html",
+          "type": "official",
+          "checked_at": "2026-10-06"
+        }
+      ],
+      "tags": [
+        "丰桥动物园",
+        "Q版",
+        "植物版",
+        "八奈见杏菜"
+      ],
+      "notes": "官方商品图与角色阵容确认：植物版图案包含八奈见杏菜。"
+    },
+    {
+      "id": "amnibus-nonhoi-chibi-attraction-mug",
+      "global_product_id": "amnibus-nonhoi-chibi-attraction-mug",
+      "character_id": "yanami-anna",
+      "name_ja": "ちびキャラ アトラクションver. マグカップ",
+      "name_zh": "丰桥动物园 Q 版游乐设施马克杯",
+      "category_id": "tableware",
+      "campaign_id": "nonhoi-park",
+      "manufacturer_id": "arma-bianca",
+      "variant": "游乐设施版图案包含八奈见杏菜",
+      "sale_format": {
+        "type": "single",
+        "total_variants": 2
+      },
+      "spec": {
+        "size": "直径约82×H95mm",
+        "material": "陶器"
+      },
+      "release_date": null,
+      "list_price_yen": 1980,
+      "official_status": "official",
+      "verification": "confirmed_text",
+      "images": [
+        {
+          "path": "images/items/amnibus-nonhoi-chibi-attraction-mug.jpg",
+          "thumbnail_path": "images/thumbs/amnibus-nonhoi-chibi-attraction-mug.webp",
+          "role": "product",
           "source_url": "https://prcdn.freetls.fastly.net/release_image/16064/8499/16064-8499-b88f22e3fbc32f789cc1fb3aa22cdf77-1350x1500.jpg"
         }
       ],
@@ -18474,9 +18526,10 @@
       "tags": [
         "丰桥动物园",
         "Q版",
+        "游乐设施版",
         "八奈见杏菜"
       ],
-      "notes": "已由多个角色项目交叉确认，当前使用明确包含八奈见杏菜的官方活动阵容图。"
+      "notes": "官方商品图与角色阵容确认：游乐设施版图案包含八奈见杏菜。"
     },
     {
       "id": "amnibus-nonhoi-chibi-stand",
@@ -26076,7 +26129,7 @@
           "path": "images/items/thechara-pale-keychain-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-keychain-anna.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-03e5bad2e1da5757f2b4128449646d23-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181248_6a336a72db5de.jpg"
         }
       ],
       "sales": [
@@ -26091,6 +26144,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907441/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -26232,7 +26290,7 @@
           "path": "images/items/thechara-pale-microfiber-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-microfiber-anna.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-d0515c45f46168109a556cf486e03e9e-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181303_6a336e1349218.jpg"
         }
       ],
       "sales": [
@@ -26247,6 +26305,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907458/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -26336,7 +26399,7 @@
           "path": "images/items/thechara-pale-stand-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-stand-anna.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-da40a66e309fb46972f60a6ae15b6dcc-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181252_6a336b9473c4e.jpg"
         }
       ],
       "sales": [
@@ -26351,6 +26414,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907448/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
@@ -26388,7 +26456,7 @@
           "path": "images/items/thechara-pale-tapestry-anna.jpg",
           "thumbnail_path": "images/thumbs/thechara-pale-tapestry-anna.webp",
           "role": "product",
-          "source_url": "https://prcdn.freetls.fastly.net/release_image/69812/838/69812-838-89db8191d24bf0399d1bd811aef20e51-800x800.jpg"
+          "source_url": "https://tc-gamers.techorus-cdn.com/upload/save_image/06181312_6a33703a93473.jpg"
         }
       ],
       "sales": [
@@ -26403,6 +26471,11 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000838.000069812.html",
           "type": "official",
           "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.gamers.co.jp/pd/10907465/",
+          "type": "official_retail",
+          "checked_at": "2026-10-15"
         }
       ],
       "tags": [
